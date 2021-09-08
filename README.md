@@ -64,7 +64,7 @@ If R and ArcGIS are already installed, you only have to download this repository
 ### 3.1 Installation guide
 
 To run the text analysis, you have to start with the script `0_first_settings.R`.
-After installing and loading all packages necessary, you can continue with the text mining process (see #3.3-instructions-for-use).
+After installing and loading all packages necessary, you can continue with the text mining process (see #33-instructions-for-use).
 
 Typical install time on a "normal" desktop computer: ~10min
 
