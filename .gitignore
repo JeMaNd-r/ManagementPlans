@@ -2,3 +2,7 @@
 *.png
 Figures/.Rhistory
 R Scripts/.Rhistory
+*.xlsx
+Data/_tdm/.Rhistory
+Data/_tdm
+Data/Brandenburg/.Rhistory
