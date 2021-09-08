@@ -1,0 +1,18 @@
+Federal State, Abbreviation
+Bavari, Bavaria
+Baden-Württemberg, BaWue
+Berlin, Berlin
+Brandenburg, Brandenburg
+Bremen, Bremen
+Hamburg, Hamburg
+Hessen, Hessen
+Lower Saxony, LowSax
+Mecklenburg-Vorpommern, MeckPom
+North Rhine-Westphalia, NRW
+Rhineland-Palatinate, RLP
+Saarland, Saarland
+Saxony-Anhalt, SaxAnh
+Saxony, Saxony
+Schleswig-Holstein, SchleHol
+Thuringia, Thuringia
+

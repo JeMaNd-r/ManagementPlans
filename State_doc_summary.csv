@@ -1,0 +1,34 @@
+Federal State,Abbreviation,Number of management plans,"Number of plans marked as ""in preparation"" or not accessable",Accessibility (easy to find?),Structure of webpage,File format,File content,Unique naming,Link to website,Date of download,Comment
+Bavaria,Bavaria,555,143,link to each area,clear,mostly splitted files,FG + Ms,yes,https://www.lfu.bayern.de/natur/natura2000_managementplaene/index.htm,27.01.2021,merge of FG and Ms if necessary
+Baden-Württemberg,BaWue,209,0,easy to find,clear,mostly PDF,MaP,mostly,https://www.lubw.baden-wuerttemberg.de/natur-und-landschaft/map-endfassungen,26.01.2021,merge of 1 plan splitted into 3 parts
+Berlin,Berlin,21,1,link to each area,clear,PDF,"MaP, PEP",yes,https://www.berlin.de/sen/uvk/natur-und-gruen/naturschutz/natura-2000/managementplanung/,28.01.2021,some areas offered PEP instead of MaP
+Brandenburg,Brandenburg,295,233,direct link to MaP,clear,PDF,"MaP, PEP",yes,https://lfu.brandenburg.de/lfu/de/aufgaben/natur/natura-2000/managementplanung/,28.01.2021,"if no MaP: take PEP (n=21), no BWE (n=39) included"
+Bremen,Bremen,10,n.a.,only per search in document section ,none,PDF,MaP,yes,https://www.transparenz.bremen.de/sixcms/detail.php?gsid=kogis_tp_berlin01.c.85849.de&_article_id=1459&fulltext=Managementplan&fileCnt=on,28.01.2021,access to MaP has to be improved!
+Hamburg,Hamburg,14,0,link to each area,clear,PDF,"MaP, PEP",no,https://www.hamburg.de/natura2000/13121182/natura-2000/,29.01.2021,"some PEP, for IBE combine part A & B (not C)"
+Hessen,Hessen,613,1,very easy,simple,6-times ZIP folders,Ms,yes,http://natureg.hessen.de/php/direktzugriff.php,29.01.2021,only Ms for all areas
+Lower Saxony,LowSax,2,383*,only per search in search engine,only for ordinances,PDF,MaP,yes,via search in search engine,05.02.2021,only State that runs extremely late in preparing MaP
+Mecklenburg-Vorpommern,MeckPom,207,19,link to each area,clear,mostly single PDF,MaP,mostly,http://www.lung.mv-regierung.de/insite/cms/umwelt/natur/natura2000_portal/natura2000_mp.htm,01.02.2021,"no inclusion of part III (attachement) if MaP was separated into 2 files, inclusion of FB forest if specifically linked as MaP"
+North Rhine-Westphalia,NRW,497,27,link to each area,clear,ZIP folders,MAKO,yes,http://natura2000-meldedok.naturschutzinformationen.nrw.de/natura2000-meldedok/de/fachinfo/listen/gebiete,01.02.2021,"MAKO often much shorter then MaP, no additional PEP/FB/FG etc. included, for subareas: take overall plans"
+Rhineland-Palatinate,RLP,106,0,direct link to MaP,clear,PDF,FG + Ms,yes,https://naturschutz.rlp.de/?q=Bewirtschaftungsplaene,03.02.2021,"BWP, merging of FG and Ms"
+Saarland,Saarland,124,1,link to each area,clear,PDF,"MaP, VEM",no,http://www.naturschutzdaten.saarland.de/natura2000/Natura2000/gebietsspezifische%20Daten/Struktur.html,03.02.2021,take VEM if it is first assessment of MaP at once
+Saxony-Anhalt,SaxAnh,63,43,link to each area,clear,PDF,MaP,yes,https://lau.sachsen-anhalt.de/naturschutz/natura-2000/managementplanung/,04.02.2021,"5-times individual chapters had to be merged to one plan, take finished MaP only"
+Saxony,Saxony,270,n.a.,link to each area,clear,ZIP folders,MaP,mostly,https://www.natura2000.sachsen.de/fauna-flora-habitat-gebiete-in-sachsen-30440.html,04.02.2021,short versions on MaP easily available
+Schleswig-Holstein,SchleHol,341,22,direct link to MaP,complex for sub-areas,PDF,MaP,yes,https://www.schleswig-holstein.de/DE/Fachinhalte/S/schutzgebiete/ffh/FFHSchutzgebiete.html,05.02.2021,"removed plans for water areas (e.g. named with ""Ostsee, Wasserflächen"")"
+Thuringia,Thuringia,180,16,direct link to MaP,simple,PDF,MaP,yes,https://natura2000.thueringen.de/download-bereich/ffh-gebiete-map,05.02.2021,"plans include FB ""Offenland"" (open landscape)"
+,,,,,,,,,,,
+in total,,3507,889,4396,,,,,,,
+,,,,,,,,,,,
+MaP - management plan,,,,,,,,,,,
+"PEP - ""Pflege- und Entwicklungsplan"" (care and development plan)",,,,,,,,,,,
+"BWE - ""Bewirtschaftungserlasse"" (planning decrees)",,,,,,,,,,,
+"BWP - ""Bewirtschaftungsplan"" (management plan)",,,,,,,,,,,
+"IBE - ""Integrierter Bewirtschaftungsplan für das Elbeästuar"" (integrated BWE)",,,,,,,,,,,
+"FG - ""Fachgrundlagen"" (fundamentals)",,,,,,,,,,,
+"Ms - ""Maßnahmenplan"" (measure/action plan)",,,,,,,,,,,
+"MAKO - ""Maßnahmenkonzept"" (measure/action concept)",,,,,,,,,,,
+"VEM - ""Verpflichtende Erhaltungsmaßnahmen"" (obligatory maintainance measures)",,,,,,,,,,,
+"FB - ""Fachbeitrag"" (technical contribution)",,,,,,,,,,,
+,,,,,,,,,,,
+"ZIP folder -> unzip them & keep ""text"" file or MaP only",,,,,,,,,,,
+"* no comment on number of plans in preparation, but total number of FFH areas = 385",,,,,,,,,,,
++ means merged with R or online (https://online2pdf.com/de/),,,,,,,,,,,

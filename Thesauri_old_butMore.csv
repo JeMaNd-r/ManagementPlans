@@ -1,0 +1,1050 @@
+word,translation,category,subcategory,soil.term,regex,definition.according.to.search.engine,reference,reviewers.comment,reviewer
+amphibien,amphibian,biodiversity,aboveground,no,[a-z]*amphibi[a-z]*,,,,
+annuelle,annuals,biodiversity,aboveground,no,[a-z]*annuell[a-z]*,,,,
+baum,tree,biodiversity,aboveground,no,[a-z]*baum[a-z]*,,,,
+bodenbrut,soil-breeding,biodiversity,aboveground,yes,[a-z]*bodenbrut[a-z]*,,,,OF
+bodenfeinde,soil predator,biodiversity,aboveground,yes,[a-z]*bodenfeinde[a-z]*,"Term to describe bird predation strategy: ""Dabei unterscheidet man grundsätzlich zwischen Luftfeinden und Bodenfeinden. Wie der Name schon verrät, schlagen diese entweder aus der Luft oder vom Boden aus zu.""",zwerghuhn.info/feinde/,why aboveground?,MJ
+bodenflechte,soil lichen,biodiversity,aboveground,yes,[a-z]*bodenflechte[a-z]*,,,,MJ
+bodengelege,soil-seated,biodiversity,aboveground,yes,[a-z]*bodengelege[a-z]*,,,,MJ
+bodenmoos,soil moss,biodiversity,aboveground,yes,[a-z]*bodenmoos[a-z]*,,,,LS
+bodenveg,ground vegetation,biodiversity,aboveground,yes,[a-z]*bodenveg[a-z]*,,,,
+bodenvegetation,ground vegetation,biodiversity,aboveground,yes,[a-z]*bodenvegetation[a-z]*,,,,
+busch,scrub,biodiversity,aboveground,no,[a-z]*busch[a-z]*,,,,
+farn,fern,biodiversity,aboveground,no,[a-z]*farn[a-z]*,,,,
+faunistisch,faunal,biodiversity,aboveground,no,[a-z]*faunistisch[a-z]*,more general term,,,
+fichte,spruce,biodiversity,aboveground,no,[a-z]*fichte[a-z]*,,,,
+flechte,lichen,biodiversity,aboveground,no,[a-z]*flechte[a-z]*,,,,
+floristisch,floral,biodiversity,aboveground,no,[a-z]*floristisch[a-z]*,more general term,,,
+gliederfuszer,arthropod,biodiversity,aboveground,no,[a-z]*gliederfuszer[a-z]*,,,,
+insekten,insects,biodiversity,aboveground,no,[a-z]*insekten[a-z]*,,,,
+kafer,beetle,biodiversity,aboveground,no,[a-z]*kafer[a-z]*,,,,
+mollusken,molluscs,biodiversity,aboveground,no,[a-z]*mollusken[a-z]*,,,,
+oberirdisch,aboveground,biodiversity,aboveground,no,[a-z]*oberirdisch[a-z]*,,,,
+pflanz,plants,biodiversity,aboveground,no,[a-z]*pflanz[a-z]*,,,,
+saugetier,mammals,biodiversity,aboveground,no,[a-z]*saugetier[a-z]*,,,,
+schnecke,slug,biodiversity,aboveground,no,[a-z]*schnecke[a-z]*,,,,
+spinnen,spiders,biodiversity,aboveground,no,[a-z]*spinnen[a-z]*,,,,
+tier,animal,biodiversity,aboveground,no,[a-z]*tier[a-z]*,,,,
+vegetation,vegetation,biodiversity,aboveground,no,[a-z]*vegetation[a-z]*,,,,
+vogel,birds,biodiversity,aboveground,no,[a-z]*vogel[a-z]*,,,,
+wanze,bug,biodiversity,aboveground,no,[a-z]*wanze[a-z]*,,,,
+ameise,ant,biodiversity,belowground,no,[a-z]*ameise[a-z]*,,,,
+arthropod,arthropod,biodiversity,belowground,no,[a-z]*arthropod[a-z]*,The term arthropod is more often/ usually used for soil organisms.,,,SC
+bakterien,bacteria,biodiversity,belowground,no,[a-z]*bakterien[a-z]*,,,,SC
+bodenameise,soil ant,biodiversity,belowground,yes,[a-z]*bodenameise[a-z]*,species group,,,SC
+bodenarthropod,soil arthropod,biodiversity,belowground,yes,[a-z]*bodenarthropod[a-z]*,,,,OF
+bodenbesied,soil-living,biodiversity,belowground,yes,[a-z]*bodenbesied[a-z]*,,,,OF
+bodenbewohn,soil-living,biodiversity,belowground,yes,[a-z]*bodenbewohn[a-z]*,,,,OF
+bodenfauna,soil fauna,biodiversity,belowground,yes,[a-z]*bodenfauna[a-z]*,,,,MJ
+bodenflora,soil flora,biodiversity,belowground,yes,[a-z]*bodenflora[a-z]*,,,,MJ
+bodenfloren,soil flora,biodiversity,belowground,yes,[a-z]*bodenfloren[a-z]*,,,,MJ
+bodengenetisch,soil-genetic,biodiversity,belowground,yes,[a-z]*bodengenetisch[a-z]*,,,,MJ
+bodengliederfuszer,soil arthropod,biodiversity,belowground,yes,[a-z]*bodengliederfuszer[a-z]*,,,,LS
+bodeninsekt,soil insect,biodiversity,belowground,yes,[a-z]*bodeninsekt[a-z]*,,,,LS
+bodenkafer,soil beetle,biodiversity,belowground,yes,[a-z]*bodenkafer[a-z]*,"Als Bodenkäfer oder Bodenkäfer-Gesellschaft werden Käferarten aus verschiedenen Käferfamilien zusammengefasst, welche dauerhaft im Oberboden leben.",https://de.wikipedia.org/wiki/Bodenkäfer,,LS
+bodenlebend,soil-dwelling,biodiversity,belowground,yes,[a-z]*bodenlebend[a-z]*,,,,LS
+bodenlebewe,soil-dwelling organism,biodiversity,belowground,yes,[a-z]*bodenlebewe[a-z]*,,,,LS
+bodenmegafauna,soil megafauna,biodiversity,belowground,yes,[a-z]*bodenmegafauna[a-z]*,,,might also be aboveground but not sure,LS
+bodenmikrofauna,soil microfauna,biodiversity,belowground,yes,[a-z]*bodenmikrofauna[a-z]*,,,,LS
+bodenorganism,soil organisms,biodiversity,belowground,yes,[a-z]*bodenorganism[a-z]*,,,,MS
+bodenpradat,soil predator,biodiversity,belowground,yes,[a-z]*bodenpradat[a-z]*,,,,MS
+bodenspinne,soil spider,biodiversity,belowground,yes,[a-z]*bodenspinne[a-z]*,,,,MS
+bodentier,soil animals,biodiversity,belowground,yes,[a-z]*bodentier[a-z]*,,,,
+bodenvielfalt,soil diversity,biodiversity,belowground,yes,[a-z]*bodenvielfalt[a-z]*,,,,
+bodenwanze,soil bug,biodiversity,belowground,yes,[a-z]*bodenwanze[a-z]*,,,,
+eremit,hermit beetle,biodiversity,belowground,no,[a-z]*eremit[a-z]*,,,,
+fauna,fauna,biodiversity,belowground,no,[a-z]*fauna[a-z]*,mostly used to describe  belowground fauna,,,
+flora,flora,biodiversity,belowground,no,[a-z]*flora[a-z]*,mostly used to describe  belowground flora,,,
+genetisch,genetic,biodiversity,belowground,no,[a-z]*genetisch[a-z]*,,,,
+geophyt,geophyte,biodiversity,belowground,no,[a-z]*geophyt[a-z]*,,,,
+makroarthropod,macro-arthropod,biodiversity,belowground,no,[a-z]*makroarthropod[a-z]*,,,,
+makrofauna,macrofauna,biodiversity,belowground,no,[a-z]*makrofauna[a-z]*,,,,
+megafauna,megafauna,biodiversity,belowground,no,[a-z]*megafauna[a-z]*,,,,
+mesofauna,mesofauna,biodiversity,belowground,no,[a-z]*mesofauna[a-z]*,,,,
+mikrofauna,microfauna,biodiversity,belowground,no,[a-z]*mikrofauna[a-z]*,,,,
+mikroflora,microflora,biodiversity,belowground,no,[a-z]*mikroflora[a-z]*,,,,
+nematode,nematode,biodiversity,belowground,no,[a-z]*nematode[a-z]*,,,,
+pilz,fungi,biodiversity,belowground,no,[a-z]*pilz[a-z]*,,,,
+protisten,protists,biodiversity,belowground,no,[a-z]*protisten[a-z]*,,,,
+regenwurm,earthworm,biodiversity,belowground,no,[a-z]*regenwurm[a-z]*,,,,
+unterirdisch,belowground,biodiversity,belowground,no,[a-z]*unterirdisch[a-z]*,,,,
+abundanz,abundance,biodiversity,diversity,no,[a-z]*abundanz[a-z]*,,,,SC
+arten,species,biodiversity,diversity,no,[a-z]*arten[a-z]*,,,,
+biodiversitat,biodiversity,biodiversity,diversity,no,[a-z]*biodiversitat[a-z]*,,,,SC
+biomasse,biomass,biodiversity,diversity,no,[a-z]*biomasse[a-z]*,,,,SC
+diversitat,diversity,biodiversity,diversity,no,[a-z]*div[a-z]*,,,,
+haufigkeit,abundance,biodiversity,diversity,no,[a-z]*haufigkeit[a-z]*,,,,
+vielfalt,diversity,biodiversity,diversity,no,[a-z]*vielfalt[a-z]*,,,,
+auen,floodplain,biodiversity,environment,no,auen[a-z]*,,,,
+bodengewasser,soil water body,biodiversity,environment,yes,[a-z]*bodengewasser[a-z]*,,,,MJ
+geholz,forest,biodiversity,environment,no,[a-z]*geholz[a-z]*,,,,
+gewasser,water body,biodiversity,environment,no,[a-z]*gewasser[a-z]*,,,,
+gras,grass,biodiversity,environment,no,[a-z]*gras[a-z]*,,,,
+moor,moor land,biodiversity,environment,no,[a-z]*moor[a-z]*,,,,
+natur,nature,biodiversity,environment,no,[a-z]*natur[a-z]*,,,,
+standort,location,biodiversity,environment,no,[a-z]*standort[a-z]*,,,,
+umwelt,environment,biodiversity,environment,no,[a-z]*umwelt[a-z]*,,,,
+wald,forest,biodiversity,environment,no,[a-z]*wald[a-z]*,,,,
+walder,forests,biodiversity,environment,no,[a-z]*walder[a-z]*,,,,
+wiese,grasland,biodiversity,environment,no,[a-z]*wiese[a-z]*,,,,
+abiotisch,abiotic,driver,climate,no,[a-z]*abiotisch[a-z]*,,,,SC
+austrocknen,drying-out,driver,climate,no,[a-z]*austrockn[a-z]*,,,alternatively as threat,SC
+bodenerwarmung,soil warming,driver,climate,yes,[a-z]*bodenerwarmung[a-z]*,,,,MJ
+bodenfeuer,ground fire,driver,climate,yes,[a-z]*bodenfeuer[a-z]*,,,,MJ
+bodeninversion,soil inversion,driver,climate,yes,[a-z]*bodeninversion[a-z]*,"Bodeninversion Das bedeutet, dass in Bodennähe kältere Luft liegt als in den darüberliegenden Schichten. So findet kein Austausch zwischen den Luftschichten statt.",https://www.wetter.net/wetterlexikon/eintrag/bodeninversion,not soil but climate/weather patterns,LS
+bodenkriechen,soil flow,driver,climate,yes,[a-z]*bodenkriechen[a-z]*,"Bodenkriechen bei Frostwechsel (Regelationsfließen, abgeleitet von Regelation) entsteht durch das Gefrieren von Bodenwasser und die dadurch verursachte Volumenvergrößerung (Eis hat ein größeres Volumen als Wasser).",https://de.wikipedia.org/wiki/Bodenkriechen,,LS
+bodennebel,soil fog,driver,climate,yes,[a-z]*bodennebel[a-z]*,"Der Bodennebel ist eine Art von Strahlungsnebel und zählt zum Typ des Abkühlungsnebels, also zu Nebeln, die durch Abkühlung entstehen.
+",https://www.wetter.de/cms/wetterlexikon-bodennebel-2399597.html,suggest to remove,LS
+brand,fire,driver,climate,no,[a-z]*brand[a-z]*,,,,
+brann,burning,driver,climate,no,[a-z]*brann[a-z]*,,,,
+brenn,burning,driver,climate,no,[a-z]*brenn[a-z]*,,,,
+durre,drought,driver,climate,no,[a-z]*durre[a-z]*,,,,
+eis,ice,driver,climate,no,[a-z]*eis[a-z]*,,,,
+erwarmung,warming,driver,climate,no,[a-z]*erwarmung[a-z]*,,,,
+evaporation,evaporation,driver,climate,no,[a-z]*evaporation[a-z]*,,,,
+feuer,fire,driver,climate,no,[a-z]*feuer[a-z]*,,,,
+frost,frost,driver,climate,no,[a-z]*frost[a-z]*,,,,
+inversion,inversion,driver,climate,no,[a-z]*inversion[a-z]*,"Bodeninversion Das bedeutet, dass in Bodennähe kältere Luft liegt als in den darüberliegenden Schichten. So findet kein Austausch zwischen den Luftschichten statt.",https://www.wetter.net/wetterlexikon/eintrag/bodeninversion,,
+klima,climate,driver,climate,no,[a-z]*klima[a-z]*,,,,
+klimakrise,climate crisis,driver,climate,no,[a-z]*klimakrise[a-z]*,,,,
+klimawandel,climate change,driver,climate,no,[a-z]*klimawandel[a-z]*,,,,
+niederschlag,precipitation,driver,climate,no,[a-z]*niederschlag[a-z]*,,,,
+temperatur,temperature,driver,climate,no,[a-z]*temperatur[a-z]*,,,,
+trockenheit,drought,driver,climate,no,[a-z]*trockenheit[a-z]*,,,,
+verdunstung,evaporation,driver,climate,no,[a-z]*verdunstung[a-z]*,,,,
+waldbrand,forest fire,driver,climate,no,[a-z]*waldbrand[a-z]*,,,,
+warm,warm,driver,climate,no,[a-z]*warm[a-z]*,,,,
+wasserdargebot,water availablility,driver,climate,no,[a-z]*wasserdargebot[a-z]*,,,,
+wasserverfugbarkeit,water availablility,driver,climate,no,[a-z]*wasserverfugbarkeit[a-z]*,,,,
+konsum,consumption,driver,economy,no,[a-z]*konsum[a-z]*,,,,
+markt,market,driver,economy,no,[a-z]*markt[a-z]*,,,,
+markte,markets,driver,economy,no,[a-z]*markte[a-z]*,,,,
+okonomi,economic,driver,economy,no,[a-z]*okonomi[a-z]*,,,,
+verbrauch,consumption,driver,economy,no,[a-z]*verbrauch[a-z]*,,,,
+wirtschaft,economy,driver,economy,no,[a-z]*wirtschaft[a-z]*,,,,
+wirtschaftli,economic,driver,economy,no,[a-z]*wirtschaftli[a-z]*,,,,
+wirtschaftswachstum,economic growth,driver,economy,no,[a-z]*wirtschaftswachstum[a-z]*,,,,
+anthropogen,anthropogenic,driver,human,no,[a-z]*anthrop[a-z]*,,,alternatively as threat,SC
+bevolkerungs,population growth,driver,human,no,[a-z]*bevolkerungs[a-z]*,,,population first,SC
+bildung,education,driver,human,no,bildung,,,,SC
+bodenmensch,soil - human (relationship),driver,human,yes,[a-z]*bodenmensch[a-z]*,,,,LS
+freizeit,leisure,driver,human,no,[a-z]*freizeit[a-z]*,,,,
+globaler.wandel,global change,driver,human,no,global[a-z]*[[:blank:]]wandel[a-z]*,,,,
+kulturell,cultural,driver,human,no,[a-z]*kulturell[a-z]*,,,,
+werte,(cultural) values,driver,human,no,[a-z]*kulturelle werte[a-z]*,,,,
+mensch,human,driver,human,no,[a-z]*mensch[a-z]*,,,,
+menschheit,humanity,driver,human,no,[a-z]*menschheit[a-z]*,,,,
+resourcenverbrauch,resource consumption,driver,human,no,[a-z]*resourcenverbrauch[a-z]*,,,,
+allochthone,allochtonous,driver,invasion,,[a-z]*allochton[a-z]*,,,,
+bodeninvasiv,soil-invasive,driver,invasion,yes,[a-z]*bodeninvasiv[a-z]*,,,,LS
+fremdboden,import soil,driver,invasion,yes,[a-z]*fremdboden[a-z]*,,,,
+fremd,alien,driver,invasion,no,[a-z]*fremd[a-z]*,,,,
+gebietsfremd,invasive,driver,invasion,no,[a-z]*gebietsfremd[a-z]*,,,,
+invasion,invasion,driver,invasion,no,[a-z]*invasion[a-z]*,,,,
+invasiv,invasive,driver,invasion,no,[a-z]*invasiv[a-z]*,,,,
+neophyt,neophyte,driver,invasion,no,[a-z]*neophyt[a-z]*,,,,
+abgrabung,excavation,driver,relocation,no,[a-z]*abgrabung[a-z]*,,,alternatively as threat,SC
+abgrabungsboden,excavation soil,driver,relocation,yes,[a-z]*abgrabungsboden[a-z]*,,,alternatively as threat,SC
+abraum,excavated material,driver,relocation,no,[a-z]*abraum[a-z]*,,,,
+bagger,excavator,driver,relocation,no,[a-z]*bagger[a-z]*,,,as driver not intuitive,SC
+bodenabbau,soil mining,driver,relocation,yes,[a-z]*bodenabbau[a-z]*,,,alternatively as threat,SC
+bodenabgrabung,soil excavation,driver,relocation,yes,[a-z]*bodenabgrabung[a-z]*,,,alternatively as threat,SC
+bodenabraum,soil excavation material,driver,relocation,yes,[a-z]*bodenabraum[a-z]*,,,alternatively as threat,SC
+bodenabschieb,soil displacement,driver,relocation,yes,[a-z]*bodenabschieb[a-z]*,,,alternatively as threat,SC
+bodenabschub,soil displacement,driver,relocation,yes,[a-z]*bodenabschub[a-z]*,,,alternatively as threat,SC
+bodenabtransport,soil evacuation,driver,relocation,yes,[a-z]*bodenabtransport[a-z]*,,,alternatively as threat,SC
+bodenaufschuttung,soil accumulation,driver,relocation,yes,[a-z]*bodenaufschuttung[a-z]*,,,,OF
+bodenaushub,soil excavation,driver,relocation,yes,[a-z]*bodenaushub[a-z]*,,,,OF
+bodenausschachtung,soil excavation,driver,relocation,yes,[a-z]*bodenausschachtung[a-z]*,,,,OF
+bodenbeweg,soil movement,driver,relocation,yes,[a-z]*bodenbeweg[a-z]*,,,,OF
+bodeneintrag,soil filling,driver,relocation,yes,[a-z]*bodeneintrag[a-z]*,,,,MJ
+bodenentnahme,soil removal,driver,relocation,yes,[a-z]*bodenentnahme[a-z]*,,,,MJ
+bodengewinnung,soil retrieval,driver,relocation,yes,[a-z]*bodengewinnung[a-z]*,,,,LS
+bodenumlager,soil relocation,driver,relocation,yes,[a-z]*bodenumlager[a-z]*,,,,
+bodenverdammend,soil walling,driver,relocation,yes,[a-z]*bodenverdammend[a-z]*,,,,
+bodenverfracht,soil transport,driver,relocation,yes,[a-z]*bodenverfracht[a-z]*,,,,
+bodenverlagerung,soil displacement,driver,relocation,yes,[a-z]*bodenverlagerung[a-z]*,,,,
+bodenverwall,soil walling,driver,relocation,yes,[a-z]*bodenverwall[a-z]*,,,,
+bodenverweh,soil windblown dispersal,driver,relocation,yes,[a-z]*bodenverweh[a-z]*,,,,
+bodenverwerf,soil dislocation,driver,relocation,yes,[a-z]*bodenverwerf[a-z]*,,,,
+bodenwandern,soil movement,driver,relocation,yes,[a-z]*bodenwandern[a-z]*,,,,
+einbringen,to bring in,driver,relocation,no,[a-z]*einbringen[a-z]*,,,,
+entnehmen,to take away,driver,relocation,no,[a-z]*entnehmen[a-z]*,,,,
+fullboden,excavated material,driver,relocation,yes,[a-z]*fullboden[a-z]*,Der Füllboden (meist aus Baustellenaushub) benötigt nicht die vielfältigen Anforderungen von reinem Mutterboden. Er eigent sich zum Bodenausgleich und Aufschüttungen wie Hügel oder Böschungen etc.,https://www.baustoffe-liefern.de/Erde-Boden/Fuellboden.html,,
+graben,ditch,driver,relocation,no,[a-z]*graben[a-z]*,,,,
+grabung,digging,driver,relocation,no,[a-z]*grabung[a-z]*,,,,
+alkali,alkali,feature,chem.property,no,[a-z]*alkali[a-z]*,,,,
+alkohol,ethanol,feature,chem.property,no,[a-z]*alkohol[a-z]*,,,,
+aziditat,acidity,feature,chem.property,no,[a-z]*aziditat[a-z]*,,,,SC
+base,base (chem.),feature,chem.property,no,[a-z]*base[a-z]*,,,,SC
+bodenanreicherung,soil accumulation or enrichment,feature,chem.property,yes,[a-z]*bodenanreicherung[a-z]*,,,translation better soil enrichment,OF
+bodenaustausch,soil exchange,feature,chem.property,yes,[a-z]*bodenaustausch[a-z]*,,,,OF
+bodenbedingung,soil conditions,feature,chem.property,yes,[a-z]*bodenbedingung[a-z]*,,,,OF
+bodenchemi,soil-chemical,feature,chem.property,yes,[a-z]*bodenchemi[a-z]*,,,,OF
+bodenelektrolythaushalt,soil electrolyte metabolism,feature,chem.property,yes,[a-z]*bodenelektrolythaushalt[a-z]*,,,,MJ
+bodenempfindlichkeit,soil sensibility,feature,chem.property,yes,[a-z]*bodenempfindlichkeit[a-z]*,,,,MJ
+bodenhilfsstoff,soil auxiliary substances,feature,chem.property,yes,[a-z]*bodenhilfsstoff[a-z]*,,,,LS
+bodenkonzentration,soil concentration,feature,chem.property,yes,[a-z]*bodenkonzentration[a-z]*,,,,LS
+bodenlosung,soil solution,feature,chem.property,yes,[a-z]*bodenlosung[a-z]*,,,,LS
+bodenlsg,soil solution,feature,chem.property,yes,[a-z]*bodenlsg[a-z]*,,,,LS
+bodenluft,soil air,feature,chem.property,yes,[a-z]*bodenluft[a-z]*,,,,LS
+bodenmatrix,soil matrix,feature,chem.property,yes,[a-z]*bodenmatrix[a-z]*,,,,LS
+bodenph,soil pH,feature,chem.property,yes,[a-z]*bodenph,,,,MS
+bodenphwert,soil pH value,feature,chem.property,yes,[a-z]*bodenphwert*,,,,MS
+bodenreaktion,soil reaction,feature,chem.property,yes,[a-z]*bodenreaktion[a-z]*,,,,MS
+bodenressource,soil resources,feature,chem.property,yes,[a-z]*bodenressource[a-z]*,,,,MS
+bodensattigung,soil saturation,feature,chem.property,yes,[a-z]*bodensattigung[a-z]*,,,,MS
+bodensauer,soil-acid,feature,chem.property,yes,[a-z]*bodensauer[a-z]*,,,,MS
+bodensaure,soil-acid,feature,chem.property,yes,[a-z]*bodensaure[a-z]*,,,,MS
+bodenverfugbar,soil-available,feature,chem.property,yes,[a-z]*bodenverfugbar[a-z]*,,,,
+bodenzusammensetzung,soil composition,feature,chem.property,yes,[a-z]*bodenzusammensetzung[a-z]*,,,,
+elektrolyt,electrolyte,feature,chem.property,no,[a-z]*elektrolyt[a-z]*,,,,
+karbonat,carbonate,feature,chem.property,no,[a-z]*karbonat[a-z]*,,,,
+nahrstoff,nutrients,feature,chem.property,no,[a-z]*nahrstoff[a-z]*,,,,
+sauer,acid,feature,chem.property,no,[a-z]*sauer[a-z]*,,,,
+abdeck,cover,feature,cover,no,[a-z]*abdeck[a-z]*,,,,SC
+auflage,overlay,feature,cover,no,[a-z]*auflage[a-z]*,,,,
+bedeckung,covered,feature,cover,no,[a-z]*bedeck[a-z]*,,,,
+bodenabdeckung,soil covering,feature,cover,yes,[a-z]*bodenabdeckung[a-z]*,,,,SC
+bodenauflag,soil (organic) layer,feature,cover,yes,[a-z]*bodenauflag[a-z]*,,,,OF
+bodenbedeck,soil-covering,feature,cover,yes,[a-z]*bodenbedeck[a-z]*,,,translation also soil cover,OF
+bodenbewuchs,soil vegetation cover,feature,cover,yes,[a-z]*bodenbewuchs[a-z]*,,,,OF
+bodendeck,soil cover,feature,cover,yes,[a-z]*bodendeck[a-z]*,,,,OF
+bodenkahl,bare soil,feature,cover,yes,[a-z]*bodenkahl[a-z]*,,,,LS
+bodenoberflach,soil surface,feature,cover,yes,[a-z]*bodenoberflach[a-z]*,,,,MS
+bodenpflanze,groundcover (plant),feature,cover,yes,[a-z]*bodenpflanze[a-z]*,,,,MS
+bodenspreu,soil chaff,feature,cover,yes,[a-z]*bodenspreu[a-z]*,a soil layer,,,MS
+bodenstreu,soil litter,feature,cover,yes,[a-z]*bodenstreu[a-z]*,,,,MS
+bodenuberdeck,soil cover,feature,cover,yes,[a-z]*bodenuberdeck[a-z]*,,,,
+bodenuberform,soil mantle,feature,cover,yes,[a-z]*bodenuberform[a-z]*,,,,
+bodenwuchs,ground covering,feature,cover,yes,[a-z]*bodenwuchs[a-z]*,,,,
+deckung,covering,feature,cover,no,[a-z]*deck[a-z]*,,,,
+humus,humus,feature,cover,no,[a-z]*humus[a-z]*,,,,
+offenboden,bare soil,feature,cover,yes,[a-z]*offenboden[a-z]*,Unter Offenboden versteht man nicht oder nur spärlich bewachsenen Boden.,https://www.hafen-hamburg.de/de/news/wsv-setzt-kompensationsmassnahmen-an-der-elbe-um---37060,,
+bodenareal,soil area,feature,location,yes,[a-z]*bodenareal[a-z]*,,,,OF
+bodenbereich,soil area,feature,location,yes,[a-z]*bodenbereich[a-z]*,,,,OF
+bodeneinheit,soil unit,feature,location,yes,[a-z]*bodeneinheit[a-z]*,,,,MJ
+bodenflache,soil area,feature,location,yes,[a-z]*bodenflache[a-z]*,,,,MJ
+bodengebiet,soil area,feature,location,yes,[a-z]*bodengebiet[a-z]*,,,,MJ
+bodenregion,soil region,feature,location,yes,[a-z]*bodenregion[a-z]*,,,,MS
+bodenstandort,soil site,feature,location,yes,[a-z]*bodenstandort[a-z]*,,,,MS
+gebiet,area,feature,location,no,[a-z]*gebiet[a-z]*,,,,
+geographisch,geographic,feature,location,no,[a-z]*geographisch[a-z]*,,,,
+bodenabteilung,soil section,feature,phy.property,yes,[a-z]*bodenabteilung[a-z]*,,,not sure,SC
+bodenangabe,soil specification,feature,phy.property,yes,[a-z]*bodenangabe[a-z]*,Der Boden wird vor jedem Renntag mit dem Penetrometer gemessen. Eine beschwerte Spitze rammt sich an einer Schiene senkrecht in den Boden. Die Eindringtiefe wird in Zentimeter gemessen. Diese Zahl ist dann die Bodenangabe.,https://www.buchmacherverband.de/schupperkurs/,,OF
+bodenaufbau,soil composition,feature,phy.property,yes,[a-z]*bodenaufbau[a-z]*,,,,OF
+bodenauflast,soil load,feature,phy.property,yes,[a-z]*bodenauflast[a-z]*,,,,OF
+bodenaufliegen,soil load,feature,phy.property,yes,[a-z]*bodenaufliegen[a-z]*,,,,OF
+bodenbelichtung,soil exposition,feature,phy.property,yes,[a-z]*bodenbelichtung[a-z]*,,,,OF
+bodenbeluftung,soil aeration,feature,phy.property,yes,[a-z]*bodenbeluftung[a-z]*,,,,OF
+bodenbeschaffen,soil quality,feature,phy.property,yes,[a-z]*bodenbeschaffen[a-z]*,,,,OF
+bodenbesonn,soil-exposed,feature,phy.property,yes,[a-z]*bodenbesonn[a-z]*,,,,OF
+bodencharakter,soil characteristic,feature,phy.property,yes,[a-z]*bodencharakter[a-z]*,,,,OF
+bodendichte,soil density,feature,phy.property,yes,[a-z]*bodendichte[a-z]*,,,,MJ
+bodendurchfeucht,soil moisture penetration,feature,phy.property,yes,[a-z]*bodendurchfeucht[a-z]*,,,could this not also be a function?,MJ
+bodendurchluft,soil aeration,feature,phy.property,yes,[a-z]*bodendurchluft[a-z]*,,,,MJ
+bodeneigenschaft,soil properties,feature,phy.property,yes,[a-z]*bodeneigenschaft[a-z]*,,,,MJ
+bodenfein,soil fine,feature,phy.property,yes,[a-z]*bodenfein[a-z]*,,,,MJ
+bodenfest,soil-permanent,feature,phy.property,yes,[a-z]*bodenfest[a-z]*,,,,MJ
+bodenfeucht,soil-humid,feature,phy.property,yes,[a-z]*bodenfeucht[a-z]*,,,,MJ
+bodenfrisch,soil-fresh,feature,phy.property,yes,[a-z]*bodenfrisch[a-z]*,,,,MJ
+bodenfrost,soil frost,feature,phy.property,yes,[a-z]*bodenfrost[a-z]*,,,,MJ
+bodengefug,soil texture,feature,phy.property,yes,[a-z]*bodengefug[a-z]*,,,,MJ
+bodengehalt,soil content,feature,phy.property,yes,[a-z]*bodengehalt[a-z]*,,,,MJ
+bodengemisch,soil mixture,feature,phy.property,yes,[a-z]*bodengemisch[a-z]*,,,,MJ
+bodengeologi,soil geology,feature,phy.property,yes,[a-z]*bodengeologi[a-z]*,,,,MJ
+bodengestalt,soil shape,feature,phy.property,yes,[a-z]*bodengestalt[a-z]*,,,,MJ
+bodenhorizont,soil horizon,feature,phy.property,yes,[a-z]*bodenhorizont[a-z]*,,,,LS
+bodenhydro,soil-hydrological,feature,phy.property,yes,[a-z]*bodenhydro[a-z]*,,,hydrology as phyiscal or chemical aspect? unknown,LS
+bodenkondition,soil condition,feature,phy.property,yes,[a-z]*bodenkondition[a-z]*,,,alternately threat and degradation,LS
+bodenkonsistenz,soil consistency,feature,phy.property,yes,[a-z]*bodenkonsistenz[a-z]*,,,,LS
+bodenmachtig,soil magnitude,feature,phy.property,yes,[a-z]*bodenmachtig[a-z]*,,,,LS
+bodenmehrschichtigkeit,soil multi-layering,feature,phy.property,yes,[a-z]*bodenmehrschichtigkeit[a-z]*,,,alternately feature and physical property,LS
+bodenmikrorelief,soil micro reflief,feature,phy.property,yes,[a-z]*bodenmikrorelief[a-z]*,,,alternatively soil and classification but not sure https://www.spektrum.de/lexikon/geowissenschaften/mikrorelief/10436,LS
+bodennass,soil wetness,feature,phy.property,yes,[a-z]*bodennass[a-z]*,,,,LS
+bodenniveau,floor level,feature,phy.property,yes,[a-z]*bodenniveau[a-z]*,,,,MS
+bodenparameter,soil properties,feature,phy.property,yes,[a-z]*bodenparameter[a-z]*,,,,MS
+bodenphysik,soil-physical,feature,phy.property,yes,[a-z]*bodenphysik[a-z]*,,,,MS
+bodenpore,soil pore,feature,phy.property,yes,[a-z]*bodenpore[a-z]*,,,,MS
+bodenpotential,soil potential,feature,phy.property,yes,[a-z]*bodenpotential[a-z]*,,,,MS
+bodenrauigkeit,soil roughness,feature,phy.property,yes,[a-z]*bodenrauigkeit[a-z]*,,,,MS
+bodenrelief,soil relief,feature,phy.property,yes,[a-z]*bodenrelief[a-z]*,,,,MS
+bodenschicht,soil layer,feature,phy.property,yes,[a-z]*bodenschicht[a-z]*,,,,MS
+bodenskelett,soil skeleton,feature,phy.property,yes,[a-z]*bodenskelett[a-z]*,,,,MS
+bodenstark,soil magnitude,feature,phy.property,yes,[a-z]*bodenstark[a-z]*,,,,MS
+bodenstruktur,soil texture,feature,phy.property,yes,[a-z]*bodenstruktur[a-z]*,,,,MS
+bodentemp,soil temperature,feature,phy.property,yes,[a-z]*bodentemp[a-z]*,,,,
+bodentief,soil depth,feature,phy.property,yes,[a-z]*bodentief[a-z]*,,,,
+bodenunebenheit,soil roughness,feature,phy.property,yes,[a-z]*bodenunebenheit[a-z]*,,,,
+bodenverhaltnis,soil proportion,feature,phy.property,yes,[a-z]*bodenverhaltnis[a-z]*,,,,
+bodenvoraussetzung,soil condition,feature,phy.property,yes,[a-z]*bodenvoraussetzung[a-z]*,,,,
+bodenwarm,soil-warm,feature,phy.property,yes,[a-z]*bodenwarm[a-z]*,,,,
+bodenwasser,soil water,feature,phy.property,yes,[a-z]*bodenwasser[a-z]*,,,,
+bodenzustand,soil condition,feature,phy.property,yes,[a-z]*bodenzustand[a-z]*,,,,
+durchluftung,aeration,feature,phy.property,no,[a-z]*durchluft[a-z]*,,,,
+feinkornig,fine grained,feature,phy.property,no,[a-z]*feinkornig[a-z]*,,,,
+feucht,moisture,feature,phy.property,no,[a-z]*feucht[a-z]*,,,,
+mineralbodenwasser,mineral soil water,feature,phy.property,yes,[a-z]*mineralbodenwasser[a-z]*,,,,
+morpholog,morphology,feature,phy.property,no,[a-z]*morpholog[a-z]*,,,,
+mosaik,mosaik,feature,phy.property,no,[a-z]*mosaik[a-z]*,,,,
+nasz,moisture,feature,phy.property,no,[a-z]*nasz[a-z]*,,,,
+profil,profile,feature,phy.property,no,[a-z]*profil[a-z]*,,,,
+sand,sand,feature,phy.property,no,[a-z]*sand[a-z]*,,,,
+schicht,layer,feature,phy.property,no,[a-z]*schicht[a-z]*,,,,
+wassergehalt,moisture,feature,phy.property,no,[a-z]*wassergehalt[a-z]*,,,,
+wasserstand,water level,feature,phy.property,no,[a-z]*wasserstand[a-z]*,,,,
+ausgangs,initial,feature,succession,no,ausgangs[a-z]*,,,,
+bild,formation,feature,succession,no,[a-z]*bild[a-z]+,"plus sign needed to exclude term for picture (""Bild"")",,formation more a process but depends on context,SC
+bodenabfolge,soil succession,feature,succession,yes,[a-z]*bodenabfolge[a-z]*,,,,SC
+bodenausbild,soil formation,feature,succession,yes,[a-z]*bodenausbild[a-z]*,,,,OF
+bodenausgangs,soil parental (material),feature,succession,yes,[a-z]*bodenausgangs[a-z]*,,,category better phy or chem property,OF
+bodenauspragung,soil characteristic,feature,succession,yes,[a-z]*bodenauspragung[a-z]*,,,,OF
+bodenbilden,soil-forming,feature,succession,yes,[a-z]*bodenbilden[a-z]*,,,,OF
+bodenbildung,soil formation,feature,succession,yes,[a-z]*bodenbildung[a-z]*,,,,OF
+bodencatena,soil change along slope,feature,succession,yes,[a-z]*bodencatena[a-z]*,"Bodencatena, Catena, bezeichnet den Wandel der Bodeneigenschaften entlang eines Hanges von der Wasserscheide bis zur Tiefenlinie.",https://www.spektrum.de/lexikon/geowissenschaften/bodencatena/2014,unknown,OF
+bodendynamik,soil dynamic,feature,succession,yes,[a-z]*bodendynamik[a-z]*,,,,MJ
+bodenentstehung,soil formation,feature,succession,yes,[a-z]*bodenentstehung[a-z]*,,,,MJ
+bodenentwicklung,soil development,feature,succession,yes,[a-z]*bodenentwicklung[a-z]*,,,,MJ
+bodenformation,soil formation,feature,succession,yes,[a-z]*bodenformation[a-z]*,,,,MJ
+bodengenese,soil genesis?,feature,succession,yes,[a-z]*bodengenese[a-z]*,,,,MJ
+bodenherkunft,soil origin,feature,succession,yes,[a-z]*bodenherkunft[a-z]*,,,alternatively characteristic,LS
+bodenkatena,soil change along slope,feature,succession,yes,[a-z]*bodenkatena[a-z]*,"Bodencatena, Catena, bezeichnet den Wandel der Bodeneigenschaften entlang eines Hanges von der Wasserscheide bis zur Tiefenlinie.",https://www.spektrum.de/lexikon/geowissenschaften/bodencatena/2013,space vs. time gradient,LS
+bodenreif,soil maturity,feature,succession,yes,[a-z]*bodenreif[a-z]*,,,,MS
+bodensukzession,soil succession,feature,succession,yes,[a-z]*bodensukzession[a-z]*,,,,
+bodenverjung,soil rejuvenation,feature,succession,yes,[a-z]*bodenverjung[a-z]*,,,,
+bodenverwitt,soil weathering,feature,succession,yes,[a-z]*bodenverwitt[a-z]*,,,,
+entwicklung,development,feature,succession,no,[a-z]*entwicklung[a-z]*,,,,
+initialboden,imature soil,feature,succession,yes,[a-z]*initialboden[a-z]*,,,,
+pionierboden,pioneer soil,feature,succession,yes,[a-z]*pionierboden[a-z]*,,,,
+rohboden,immature soil,feature,succession,yes,[a-z]*rohboden[a-z]*,,,,
+witterungsboden,decomposition soil,feature,succession,yes,[a-z]*witterungsboden[a-z]*,,,,
+acker,field,function,agriculture,no,[a-z]*acker[a-z]*,,,,SC
+ackerboden,arable soil,function,agriculture,yes,[a-z]*ackerboden[a-z]*,,,,SC
+ackerzahl,soil quality,function,agriculture,no,[a-z]*ackerzahl[a-z]*,,,,SC
+agrarboden,arable soil,function,agriculture,yes,[a-z]*agrarboden[a-z]*,,,,SC
+agrar,agriculture,function,agriculture,no,[a-z]*agrar[a-z]*,,,,
+anzucht,cultivation,function,agriculture,no,[a-z]*anzucht[a-z]*,,,,SC
+anzuchtboden,cultivation soil,function,agriculture,yes,[a-z]*anzuchtboden[a-z]*,,,,SC
+bodenacker,arable soil,function,agriculture,yes,[a-z]*bodenacker[a-z]*,,,,SC
+bodenertrag,soil yield,function,agriculture,yes,[a-z]*bodenertrag[a-z]*,,,,MJ
+bodenfruchtbar,soil fertility,function,agriculture,yes,[a-z]*bodenfruchtbar[a-z]*,,,,MJ
+bodenheu,ground hay,function,agriculture,yes,[a-z]*bodenheu[a-z]*,,,alternately: protection: managing,LS
+bodennutzpflanze,soil crop,function,agriculture,yes,[a-z]*bodennutzpflanze[a-z]*,,,,MS
+bodenproduktiv,soil productivity,function,agriculture,yes,[a-z]*bodenproduktiv[a-z]*,,,,MS
+bodenreinertragslehre,forest management,function,agriculture,yes,[a-z]*bodenreinertragslehre[a-z]*,,,alternative translation theory of net soil yield,MS
+bodenrichtwert,standard land value,function,agriculture,yes,[a-z]*bodenrichtwert[a-z]*,,,alternative as property.market,MS
+bodensamen,soil seed,function,agriculture,yes,[a-z]*bodensamen[a-z]*,,,,MS
+bodenwert,soil value,function,agriculture,yes,[a-z]*bodenwert[a-z]*,,,,
+bodenzahl,soil quality,function,agriculture,yes,[a-z]*bodenzahl[a-z]*,,,,
+ernte,harvest,function,agriculture,no,[a-z]*ernte[a-z]*,,,,
+ertrag,yield,function,agriculture,no,[a-z]*ertrag[a-z]*,,,,
+feldbau,agriculture,function,agriculture,no,[a-z]*feldbau[a-z]*,,,,
+frucht,fruit/ crop,function,agriculture,no,[a-z]*frucht[a-z]*,,,,
+fruchtbar,fertile,function,agriculture,no,[a-z]*fruchtbar[a-z]*,,,,
+keimboden,germinative soil,function,agriculture,yes,[a-z]*keimboden[a-z]*,,,,
+kulturboden,cultivation soil,function,agriculture,yes,[a-z]*kulturboden[a-z]*,,,,
+landwirtschaft,agriculture,function,agriculture,no,[a-z]*landwirtschaft[a-z]*,,,,
+nutzpflanze,crop,function,agriculture,no,[a-z]*nutzpflanze[a-z]*,,,,
+qualitat,quality,function,agriculture,no,[a-z]*qualitat[a-z]*,,,,
+saat,crop,function,agriculture,no,[a-z]*saat[a-z]*,,,,
+saatflache,crop area,function,agriculture,no,[a-z]*saatflache[a-z]*,,,,
+abbau,decomposition,function,decomposition,no,[a-z]*abbau[a-z]*,,,,SC
+aufgliederung,decomposition,function,decomposition,no,[a-z]*aufgliederung[a-z]*,,,,SC
+aufschluss,decomposition,function,decomposition,no,[a-z]*aufschluss[a-z]*,,,,SC
+bodenmineralis,soil mineralization,function,decomposition,yes,[a-z]*bodenmineralis[a-z]*,,,,LS
+dekomposition,decomposition,function,decomposition,no,[a-z]*dekomposition[a-z]*,,,,
+detritus,detritus,function,decomposition,no,[a-z]*detritus[a-z]*,,,,
+disaggregierung,decomposition,function,decomposition,no,[a-z]*disaggregierung[a-z]*,,,,
+verwesung,decomposition,function,decomposition,no,[a-z]*verwesung[a-z]*,,,,
+verwitterung,decomposition,function,decomposition,no,[a-z]*verwitterung[a-z]*,,,,
+zerfall,decomposition,function,decomposition,no,[a-z]*zerfall[a-z]*,,,,
+zerlegung,decomposition,function,decomposition,no,[a-z]*zerlegung[a-z]*,,,,
+zersetzung,decomposition,function,decomposition,no,[a-z]*zersetzung[a-z]*,,,,
+bodendurchlassig,soil permeability,function,filtration,yes,[a-z]*bodendurchlassig[a-z]*,,,,MJ
+bodenfilt,soil filtration,function,filtration,yes,[a-z]*bodenfilt[a-z]*,,,,MJ
+bodenkf,soil classification number,function,filtration,yes,[a-z]*bodenkf[a-z]*,"Der Kf-Wert ist der Durchlässigkeitsbeiwert, der den Grad der Versickerungsfähigkeit (Wasserdurchlässigkeit) von Böden beschreibt. Je größer der Wert, desto besser die Versickerungsfähigkeit.",https://www.bauwion.de/begriffe/versickerungsfaehigkeit-kf-wert-gem-din-18130-1,,LS
+bodenpassage,groundwater recharge,function,filtration,yes,[a-z]*bodenpassage[a-z]*,,,,MS
+bodensicker,soil perlocation,function,filtration,yes,[a-z]*bodensicker[a-z]*,,,,MS
+bodenversicker,soil percolation,function,filtration,yes,[a-z]*bodenversicker[a-z]*,,,,
+bodenwasserhaushalt,soil water balance,function,filtration,yes,[a-z]*bodenwasserhaushalt[a-z]*,,,,
+durchlassig,permeable,function,filtration,no,[a-z]*durchlassig[a-z]*,,,,
+filter,filter,function,filtration,no,[a-z]*filter[a-z]*,,,,
+filtrierung,filtration,function,filtration,no,[a-z]*filtrierung[a-z]*,,,,
+gesamtabfluss,runoff,function,filtration,no,[a-z]*gesamtabfluss[a-z]*,,,,
+grundwasser,groundwater (recharge),function,filtration,no,[a-z]*grundwasser[a-z]*,,,,
+kfwert,classification value,function,filtration,no,[a-z]*kfwert[a-z]*,"Der Kf-Wert ist der Durchlässigkeitsbeiwert, der den Grad der Versickerungsfähigkeit (Wasserdurchlässigkeit) von Böden beschreibt. Je größer der Wert, desto besser die Versickerungsfähigkeit.",https://www.bauwion.de/begriffe/versickerungsfaehigkeit-kf-wert-gem-din-18130-1,,
+oberflachenablauf,runoff,function,filtration,no,[a-z]*oberflachenablauf[a-z]*,,,,
+stauwasserboden,tailwater soil,function,filtration,yes,[a-z]*stauwasserboden[a-z]*,,,,
+uberlaufabfluss,runoff,function,filtration,no,[a-z]*uberlaufabfluss[a-z]*,,,,
+wasseraufnahme,water infiltration,function,filtration,no,[a-z]*wasseraufnahme[a-z]*,,,,
+wasserfilter,water filter,function,filtration,no,[a-z]*wasserfilter[a-z]*,,,,
+wasserhaushalt,water balance,function,filtration,no,[a-z]*wasserhaushalt[a-z]*,,,,
+assimilation,assimilation,function,global.cycles,no,[a-z]*assimilation[a-z]*,,,,
+austauschkapazitat,exchange capacity,function,global.cycles,no,[a-z]*austauschkapazitat[a-z]*,,,,
+bodenfunktion,soil function,function,global.cycles,yes,[a-z]*bodenfunktion[a-z]*,,,,MJ
+bodengebunden,soil-ligated,function,global.cycles,yes,[a-z]*bodengebunden[a-z]*,,,,MJ
+bodenhaushalt,soil inventory,function,global.cycles,yes,[a-z]*bodenhaushalt[a-z]*,,,,LS
+bodenlager,soil storage,function,global.cycles,yes,[a-z]*bodenlager[a-z]*,,,,LS
+bodenmechanis,soil mechanism,function,global.cycles,yes,[a-z]*bodenmechanis[a-z]*,,,,LS
+bodennahrkraft,soil power to feed,function,global.cycles,yes,[a-z]*bodennahrkraft[a-z]*,,,,LS
+bodennahrstoff,soil nutrients,function,global.cycles,yes,[a-z]*bodennahrstoff[a-z]*,,,,LS
+bodenprozess,soil process,function,global.cycles,yes,[a-z]*bodenprozess[a-z]*,,,,MS
+bodenretention,soil retention,function,global.cycles,yes,[a-z]*bodenretention[a-z]*,,,,MS
+bodenrohstoff,soil resource,function,global.cycles,yes,[a-z]*bodenrohstoff[a-z]*,,,,MS
+bodenruckhalt,soil detention,function,global.cycles,yes,[a-z]*bodenruckhalt[a-z]*,,,,MS
+bodenstickstoff,soil nitrogen,function,global.cycles,yes,[a-z]*bodenstickstoff[a-z]*,,,,MS
+calcium,calcium,function,global.cycles,no,[a-z]*calcium[a-z]*,,,,
+carbondioxid,carbon (di) oxide,function,global.cycles,no,[a-z]*carbondioxid[a-z]*,"adapt to search for pattern ""co"" only",,,
+carbonat,carbonate,function,global.cycles,no,[a-z]*carbonat[a-z]*,,,,
+chlorid,chloride,function,global.cycles,no,[a-z]*chlorid[a-z]*,,,,
+denitrifikation,denitrification,function,global.cycles,no,[a-z]*denitrifi[a-z]*,,,,
+eisen,iron,function,global.cycles,no,[a-z]*eisen[a-z]*,,,,
+element,element,function,global.cycles,no,[a-z]*element[a-z]*,,,,
+funktion,function,function,global.cycles,no,[a-z]*funktion[a-z]*,,,,
+globale.kreislaufe,global cycles,function,global.cycles,no,global[a-z]*[[:blank:]]kreislauf[a-z]*,,,,
+globale.zyklen,global cycles,function,global.cycles,no,global[a-z]*[[:blank:]]zykl[a-z]*,,,,
+haushalt,balance,function,global.cycles,no,[a-z]*haushalt[a-z]*,,,,
+kohlenstoff,carbon,function,global.cycles,no,[a-z]*kohlenstoff[a-z]*,,,,
+mikroklima,microclimate,function,global.cycles,no,[a-z]*mikroklima[a-z]*,,,,
+organisch,organic,function,global.cycles,no,[a-z]*organisch[a-z]*,,,,
+reaktion,reaction,function,global.cycles,no,[a-z]*reaktion[a-z]*,,,,
+stickstoff,nitrogen,function,global.cycles,no,[a-z]*stickstoff[a-z]*,,,,
+areal,area,function,habitat,no,[a-z]*areal[a-z]*,,,,
+bewohner,inhabitant,function,habitat,no,[a-z]*bewohn[a-z]*,,,,
+bodenbalz,ground courtship,function,habitat,yes,[a-z]*bodenbalz[a-z]*,,,,OF
+bodendiasporenbank,soil diaspore bank,function,habitat,yes,[a-z]*bodendiasporenbank[a-z]*,,,subcategory as characteristic,MJ
+bodenhabitat,soil habitat,function,habitat,yes,[a-z]*bodenhabitat[a-z]*,,,,LS
+bodenhohl,soil cave,function,habitat,yes,[a-z]*bodenhohl[a-z]*,,,,LS
+bodenjag,soil hunting,function,habitat,yes,[a-z]*bodenjag[a-z]*,,,better remove or change to driver and human,LS
+bodenkammer,soil chamber,function,habitat,yes,[a-z]*bodenkammer[a-z]*,,,,LS
+bodenklima,soil climate,function,habitat,yes,[a-z]*bodenklima[a-z]*,,,,LS
+bodenlandung,alighting on earth,function,habitat,yes,[a-z]*bodenlandung[a-z]*,term for bird of prey,,suggest to remove,LS
+bodenmikroklima,soil microclimate,function,habitat,yes,[a-z]*bodenmikroklima[a-z]*,,,,LS
+bodenmilieu,soil environment,function,habitat,yes,[a-z]*bodenmilieu[a-z]*,,,alternatively biodiversity and diversity,LS
+bodennest,soil nest,function,habitat,yes,[a-z]*bodennest[a-z]*,,,,MS
+bodenpopulation,soil population,function,habitat,yes,[a-z]*bodenpopulation[a-z]*,,,maybe also biodiversity and belowground,MS
+bodenraum,soil space,function,habitat,yes,[a-z]*bodenraum[a-z]*,,,,MS
+bodenreich,soil-rich or soil habitat,function,habitat,yes,[a-z]*bodenreich[a-z]*,,,,MS
+bodenuberwinter,soil overwintering,function,habitat,yes,[a-z]*bodenuberwinter[a-z]*,,,,
+bodenvorrat,soil storage,function,habitat,yes,[a-z]*bodenvorrat[a-z]*,,,,
+brut,brood,function,habitat,no,[a-z]*brut[a-z]*,,,,
+diasporen,diaspore,function,habitat,no,[a-z]*diaspore[a-z]*,,,,
+habitat,habitat,function,habitat,no,[a-z]*habitat[a-z]*,,,,
+lebensraum,habitat,function,habitat,no,[a-z]*lebensraum[a-z]*,,,,
+nest,nest,function,habitat,no,[a-z]*nest[a-z]*,,,,
+nistend,nesting,function,habitat,no,[a-z]*nistend[a-z]*,,,,
+krankheit,disease,function,pest.control,no,[a-z]*krankheit[a-z]*,,,,
+schadling,pests,function,pest.control,no,[a-z]*schadling[a-z]*,,,,
+ungeziefer,pests,function,pest.control,no,[a-z]*ungeziefer[a-z]*,,,,
+ankauf,purchase,function,property.market,no,[a-z]*ankauf[a-z]*,,,,
+bodenangebot,soil offering,function,property.market,yes,[a-z]*bodenangebot[a-z]*,,,translation as soil range,OF
+bodenankauf,soil purchase,function,property.market,yes,[a-z]*bodenankauf[a-z]*,,,,OF
+bodenarbeit,soil work,function,property.market,yes,[a-z]*bodenarbeit[a-z]*,"Bodenarbeit ist ein weit gefächerter Oberbegriff und umfasst alle Aktivitäten mit dem Pferd, bei denen der Mensch das Pferd vom Boden aus anleitet und ausbildet.",https://www.wehorse.com/de/kategorie/bodenarbeit/,,OF
+bodenarchitektur,soil architecture,function,property.market,yes,[a-z]*bodenarchitektur[a-z]*,term from building industry,,,OF
+bodenbedarf,soil demand,function,property.market,yes,[a-z]*bodenbedarf[a-z]*,,,,OF
+bodendeponie,soil depository,function,property.market,yes,[a-z]*bodendeponie[a-z]*,,,,MJ
+bodendepot,soil depot,function,property.market,yes,[a-z]*bodendepot[a-z]*,,,,MJ
+bodeneben,ground-level,function,property.market,yes,[a-z]*bodeneben[a-z]*,,,,MJ
+bodeneigentum,soil property,function,property.market,yes,[a-z]*bodeneigentum[a-z]*,,,,MJ
+bodeneignung,soil suitability,function,property.market,yes,[a-z]*bodeneignung[a-z]*,,,,MJ
+bodeneinbaugebiet,soil installation area,function,property.market,yes,[a-z]*bodeneinbaugebiet[a-z]*,,,,MJ
+bodeneinsatz,soil use,function,property.market,yes,[a-z]*bodeneinsatz[a-z]*,,,,MJ
+bodenerhebung,elevation ,function,property.market,yes,[a-z]*bodenerhebung[a-z]*,,,,MJ
+bodenerhohung,elevation ,function,property.market,yes,[a-z]*bodenerhohung[a-z]*,,,,MJ
+bodenfaktor,soil factor,function,property.market,yes,[a-z]*bodenfaktor[a-z]*,"Boden (Produktionsfaktor) Boden (englisch land) ist in der Volkswirtschaftslehre der zweite originäre Produktionsfaktor, der die wirtschaftlich genutzte Erdoberfläche umfasst.",https://de.wikipedia.org/wiki/Boden_(Produktionsfaktor),,MJ
+bodenfundament,ground basement,function,property.market,yes,[a-z]*bodenfundament[a-z]*,,,,MJ
+bodengemarkung,ground township,function,property.market,yes,[a-z]*bodengemarkung[a-z]*,,,as habitat?,MJ
+bodengrenze,soil boundary,function,property.market,yes,[a-z]*bodengrenze[a-z]*,,,,LS
+bodengrube,soil hole,function,property.market,yes,[a-z]*bodengrube[a-z]*,,,,LS
+bodenhindernis,soil barrier,function,property.market,yes,[a-z]*bodenhindernis[a-z]*,,,,LS
+bodenmarkt,soil market,function,property.market,yes,[a-z]*bodenmarkt[a-z]*,,,,LS
+bodenmobilitat,soil mobility,function,property.market,yes,[a-z]*bodenmobilitat[a-z]*,buy and sell of ground,,,LS
+bodennivellierung,soil alignment,function,property.market,yes,[a-z]*bodennivellierung[a-z]*,"Nivellierung (Bauwesen), Herstellen einer ebenen Fläche oder eines gleichmäßigen Gefälles",https://de.wikipedia.org/wiki/Nivellierung,technical term might not make sense here,MS
+bodenpreis,soil/ land price,function,property.market,yes,[a-z]*bodenpreis[a-z]*,,,,MS
+bodenwende,soil (policy) turn,function,property.market,yes,[a-z]*bodenwende[a-z]*,,,,
+eigentum,property,function,property.market,no,[a-z]*eigentum[a-z]*,,,,
+flurstuck,parcel of land,function,property.market,no,[a-z]*flurstuck[a-z]*,,,,
+erholung,recreational function,function,recreation,no,erhol[a-z]*,,,,
+aktiv,activity,function,stability,no,[a-z]*aktiv[a-z]*,,,,
+bodenstabilis,soil stability,function,stability,yes,[a-z]*bodenstabilis[a-z]*,,,,MS
+bodentrophie,soil trophic,function,stability,yes,[a-z]*bodentrophie[a-z]*,,,,
+ernahrung,nutrition,function,stability,no,[a-z]*ernahr[a-z]*,term related to food web,,,
+fressen,feed,function,stability,no,[a-z]*fress[a-z]*,term related to food web,,,
+puffer,buffer,function,stability,no,[a-z]*puffer[a-z]*,,,,
+stabilisierung,stabilization,function,stability,no,[a-z]*stabilisierung[a-z]*,,,,
+stabilitat,stability,function,stability,no,[a-z]*stabilitat[a-z]*,,,,
+alt,ancient,protection,characteristic,no,alt[a-z]*,,,,SC
+bodenalter,soil age,protection,characteristic,yes,[a-z]*bodenalter[a-z]*,,,,SC
+bodendenk,soil monument,protection,characteristic,yes,[a-z]*bodendenk[a-z]*,,,,MJ
+bodendifferenzierung,soil differentiation,protection,characteristic,yes,[a-z]*bodendifferenzierung[a-z]*,,,,MJ
+bodenheterogenitat,soil heterogeneity,protection,characteristic,yes,[a-z]*bodenheterogenitat[a-z]*,,,,LS
+bodenmerkmal,soil characteristic,protection,characteristic,yes,[a-z]*bodenmerkmal[a-z]*,,,,LS
+bodenschatz,soil resource,protection,characteristic,yes,[a-z]*bodenschatz[a-z]*,,,,MS
+bodensensib,soil sensitivity,protection,characteristic,yes,[a-z]*bodensensib[a-z]*,,,,MS
+bodensituation,soil situation,protection,characteristic,yes,[a-z]*bodensituation[a-z]*,,,,MS
+bodensspektrum,soil spectrum,protection,characteristic,yes,[a-z]*bodensspektrum[a-z]*,,,,MS
+bodenunterschied,soil difference,protection,characteristic,yes,[a-z]*bodenunterschied[a-z]*,,,,
+charakter,characteristic,protection,characteristic,no,[a-z]*charakter[a-z]*,,,,
+eigenschaft,characteristic,protection,characteristic,no,[a-z]*eigenschaft[a-z]*,,,,
+einzigartig,unique,protection,characteristic,no,[a-z]*einzigartig[a-z]*,,,,
+empfindlich,sensitive,protection,characteristic,no,[a-z]*empfindlich[a-z]*,,,,
+naturlich,natural,protection,characteristic,no,[a-z]*naturlich[a-z]*,,,,
+selten,rare,protection,characteristic,no,[a-z]*selten[a-z]*,,,,
+wertvoll,valuable,protection,characteristic,no,[a-z]*wertvoll[a-z]*,,,,
+aufarbeiten,rehabilitate,protection,managing,no,[a-z]*aufarbeit[a-z]*,,,,
+aufforstung,reforestation,protection,managing,no,[a-z]*aufforst[a-z]*,,,,
+auffullung,infilling,protection,managing,no,[a-z]*auffull[a-z]*,,,,
+auflocker,loosened,protection,managing,no,[a-z]*auflocker[a-z]*,,,,
+aufrauen,rough up,protection,managing,no,[a-z]*aufrauen[a-z]*,,,,
+aufwertung,revaluation,protection,managing,no,[a-z]*aufwert[a-z]*,,,,
+ausbesserung,renovation,protection,managing,no,[a-z]*ausbesser[a-z]*,,,,
+ausgleich,compensation,protection,managing,no,[a-z]*ausgleich[a-z]*,,,,
+behandlung,treatment,protection,managing,no,[a-z]*behand[a-z]*,,,,
+bodenaufbereitung,soil conditioning,protection,managing,yes,[a-z]*bodenaufbereitung[a-z]*,,,translation also preparation,OF
+bodenauffull,soil infilling,protection,managing,yes,[a-z]*bodenauffull[a-z]*,,,,OF
+bodenaufwertung,soil improvement,protection,managing,yes,[a-z]*bodenaufwertung[a-z]*,,,,OF
+bodenbefestigung,soil fixation,protection,managing,yes,[a-z]*bodenbefestigung[a-z]*,,,,OF
+bodenbeimischung,soil admixture,protection,managing,yes,[a-z]*bodenbeimischung[a-z]*,,,check classification of protection actions,OF
+bodenbewusstsein,soil awareness,protection,managing,yes,[a-z]*bodenbewusstsein[a-z]*,,,,OF
+bodenbindemittel,soil cement,protection,managing,yes,[a-z]*bodenbindemittel[a-z]*,Mit Feinkalk und anderen Bindemitteln verbesserter Boden hat sich im Bauwesen durchgesetzt.,https://www.stetter-boden.de/leistungsspektrum/bodenstabilisierung/,translation as soil binder?,OF
+bodendauerhaft,soil-permanent,protection,managing,yes,[a-z]*bodendauerhaft[a-z]*,,,,OF
+bodendringlichkeit,soil urgency,protection,managing,yes,[a-z]*bodendringlichkeit[a-z]*,,,,MJ
+bodeneinfluss,soil impact,protection,managing,yes,[a-z]*bodeneinfluss[a-z]*,,,,MJ
+bodenentseuchung,soil decontamination,protection,managing,yes,[a-z]*bodenentseuchung[a-z]*,,,,MJ
+bodenentsiegel,soil unsealing,protection,managing,yes,[a-z]*bodenentsiegel[a-z]*,,,,MJ
+bodenentwasserung,soil de-watering,protection,managing,yes,[a-z]*bodenentwasserung[a-z]*,Bodenentwässerung Bodenablauf und Entwässerungsrinne leiten Schmutzwasser von Bodenflächen gefahrlos für Menschen und schadlos für Bauwerke in die Entwässerungsleitung ab.,https://www.aco-haustechnik.de/produkte/collect/bodenentwaesserung/,,MJ
+bodenerhalt,soil maintaining,protection,managing,yes,[a-z]*bodenerhalt[a-z]*,,,,MJ
+bodenerneuerung,soil renewal,protection,managing,yes,[a-z]*bodenerneuerung[a-z]*,,,,MJ
+bodenforder,soil promotion,protection,managing,yes,[a-z]*bodenforder[a-z]*,,,,MJ
+bodenfrase,soil milling cutter,protection,managing,yes,[a-z]*bodenfrase[a-z]*,Der Bodenstabilisierer (auch Bodenfräse) ist eine Baumaschine und wird im Bereich des Erdbaus bzw. Verkehrswegebaus zur Bodenverfestigung und zur Erstellung der Tragschicht eingesetzt.,https://de.wikipedia.org/wiki/Bodenstabilisierer,,MJ
+bodenfrei,soil-free (freedom),protection,managing,yes,[a-z]*bodenfrei[a-z]*,,,,MJ
+bodengenesung,soil recovery,protection,managing,yes,[a-z]*bodengenesung[a-z]*,,,,MJ
+bodenkalkungen,soil liming,protection,managing,yes,[a-z]*bodenkalkungen[a-z]*,,,,LS
+bodenlockerung,soil loosening,protection,managing,yes,[a-z]*bodenlockerung[a-z]*,,,,LS
+bodenmelior,soil melioration,protection,managing,yes,[a-z]*bodenmelior[a-z]*,,,,LS
+bodenpfleg,soil maintenance,protection,managing,yes,[a-z]*bodenpfleg[a-z]*,,,,MS
+bodenrecycling,soil recycling,protection,managing,yes,[a-z]*bodenrecycling[a-z]*,,,,MS
+bodenregeneration,soil regeneration,protection,managing,yes,[a-z]*bodenregeneration[a-z]*,,,,MS
+bodenruhe,soil rest,protection,managing,yes,[a-z]*bodenruhe[a-z]*,"Bodenruhe, bezeichnet die Phase, in welcher der Boden keiner Bodenbearbeitung unterworfen ist,",https://www.spektrum.de/lexikon/geowissenschaften/bodenruhe/2111,,MS
+bodensanierung,soil restoration,protection,managing,yes,[a-z]*bodensanierung[a-z]*,,,,MS
+bodenschonen,soil-conserving,protection,managing,yes,[a-z]*bodenschonen[a-z]*,,,,MS
+bodenschonung,soil conservation,protection,managing,yes,[a-z]*bodenschonung[a-z]*,,,,MS
+bodenschutz,soil protection,protection,managing,yes,[a-z]*bodenschutz[a-z]*,,,,MS
+bodenschutzkalkung,soil protective liming,protection,managing,yes,[a-z]*bodenschutzkalkung[a-z]*,,,,MS
+bodenschwerp,soil focus,protection,managing,yes,[a-z]*bodenschwerp[a-z]*,,,,MS
+bodensicher,soil security,protection,managing,yes,[a-z]*bodensicher[a-z]*,,,,MS
+bodenverbess,soil improvement,protection,managing,yes,[a-z]*bodenverbess[a-z]*,,,,
+bodenverfull,soil infilling,protection,managing,yes,[a-z]*bodenverfull[a-z]*,,,,
+bodenverwert,soil reutilization,protection,managing,yes,[a-z]*bodenverwert[a-z]*,,,,
+bodenverwild,soil wildness,protection,managing,yes,[a-z]*bodenverwild[a-z]*,,,,
+bodenvorberei,soil preparation,protection,managing,yes,[a-z]*bodenvorberei[a-z]*,,,,
+einhalt,stop/ stick to sth.,protection,managing,no,[a-z]*einhalt[a-z]*,,,,
+erfolg,success,protection,managing,no,[a-z]*erfolg[a-z]*,,,,
+erhalt,maintain,protection,managing,no,[a-z]*erhalt[a-z]*,,,,
+extensi,extensive,protection,managing,no,[a-z]*extensi[a-z]*,,,,
+fordern,"demand, forster",protection,managing,no,[a-z]*forder[a-z]*,,,,
+kalken,liming,protection,managing,no,[a-z]*kalken[a-z]*,,,,
+kalkung,liming,protection,managing,no,[a-z]*kalkung[a-z]*,,,,
+manage,managing,protection,managing,no,[a-z]*manage[a-z]*,,,,
+massnahme,action,protection,managing,no,[a-z]*masznahme[a-z]*,,,,
+sanierung,restoration,protection,managing,no,[a-z]*sanierung[a-z]*,,,,
+schonen,conserv,protection,managing,no,[a-z]*schonen[a-z]*,,,,
+schonung,conservation,protection,managing,no,[a-z]*schonung[a-z]*,,,,
+schutz,protection,protection,managing,no,[a-z]*schutz[a-z]*,,,,
+verbessern,to improve,protection,managing,no,[a-z]*verbessern[a-z]*,,,,
+verboten,forbidden,protection,managing,no,[a-z]*verboten[a-z]*,,,,
+verhindern,to avoid,protection,managing,no,[a-z]*verhindern[a-z]*,,,,
+verringern,to decrease,protection,managing,no,[a-z]*verringern[a-z]*,,,,
+verzichten,to disclaim,protection,managing,no,[a-z]*verzichten[a-z]*,,,,
+ziel,aim,protection,managing,no,[a-z]*ziel[a-z]*,,,,
+abfallrecht,waste law,protection,policy,no,[a-z]*abfallrecht[a-z]*,,,,SC
+agrarordnung,land consolidation,protection,policy,no,[a-z]*agrarordnung[a-z]*,,,,
+bbodschg,federal soil protection act,protection,policy,no,[a-z]*bbodschg[a-z]*,,,,
+bbodschv,federal soil protection ordinance,protection,policy,no,[a-z]*bbodschv[a-z]*,,,,
+biospharenreservat,biosphere reserve,protection,policy,no,[a-z]*biospharenreservat[a-z]*,,,,
+biotop,biotope,protection,policy,no,[a-z]*biotop[a-z]*,,,,
+bnatschg,Federal nature conservation act,protection,policy,no,[a-z]*bnatschg[a-z]*,,,,
+bodenbehorde,soil agency,protection,policy,yes,[a-z]*bodenbehorde[a-z]*,,,,OF
+bodenerlebnispfad,soil exploration path,protection,policy,yes,[a-z]*bodenerlebnispfad[a-z]*,,,outreach?,MJ
+bodenfond,soil fund,protection,policy,yes,[a-z]*bodenfond[a-z]*,,,,MJ
+bodengesetz,soil act,protection,policy,yes,[a-z]*bodengesetz[a-z]*,,,,MJ
+bodenkonserv,soil conservation,protection,policy,yes,[a-z]*bodenkonserv[a-z]*,,,,LS
+bodenkonzept,soil concept,protection,policy,yes,[a-z]*bodenkonzept[a-z]*,,,,LS
+bodenordn,land reallocation,protection,policy,yes,[a-z]*bodenordn[a-z]*,,,,MS
+bodenpfad,soil path,protection,policy,yes,[a-z]*bodenpfad[a-z]*,,,,MS
+bodenplan,soil plan,protection,policy,yes,[a-z]*bodenplan[a-z]*,,,,MS
+bodenrecht,soil legislation,protection,policy,yes,[a-z]*bodenrecht[a-z]*,,,,MS
+bodenreform,land reform,protection,policy,yes,[a-z]*bodenreform[a-z]*,,,,MS
+bodenschg,soil protection act,protection,policy,yes,[a-z]*bodenschg,,,,MS
+bodenschutzgesetz,soil protection act,protection,policy,yes,[a-z]*bodenschutzgesetz[a-z]*,,,,MS
+bodenschutzverordnung,soil protection ordinance,protection,policy,yes,[a-z]*bodenschutzverordnung[a-z]*,,,,MS
+bodenschv,soil protection ordinance,protection,policy,yes,[a-z]*bodenschv,,,,MS
+bodenschvo,soil protection ordinance,protection,policy,yes,[a-z]*bodenschvo,,,,MS
+bodenverband,soil association,protection,policy,yes,[a-z]*bodenverband[a-z]*,,,,
+bodenverwaltung,soil administration,protection,policy,yes,[a-z]*bodenverwaltung[a-z]*,,,,
+bodenzentrale,soil center,protection,policy,yes,[a-z]*bodenzentrale[a-z]*,,,,
+bodenziel,soil aim,protection,policy,yes,[a-z]*bodenziel[a-z]*,,,,
+bunbodenschutzgesetz,federal soil protection act,protection,policy,yes,[a-z]*bunbodenschutzgesetz[a-z]*,,,,
+bundesbodenschutzgesetz,federal soil protection act,protection,policy,yes,[a-z]*bundesbodenschutzgesetz[a-z]*,,,,
+denkmal,monument,protection,policy,no,[a-z]*denkmal[a-z]*,,,,
+erlauben,permit,protection,policy,no,[a-z]*erlaub[a-z]*,,,,
+ffh,flora-fauna-habitat,protection,policy,no,[a-z]*ffh[a-z]*,,,,
+ffhboden,FFH soil,protection,policy,yes,[a-z]*ffhboden[a-z]*,,,,
+ffhgebiet,FFH area,protection,policy,no,[a-z]*ffhgebiet[a-z]*,,,,
+flurbereinigung,reallocation of land,protection,policy,no,[a-z]*flurbereinigung[a-z]*,,,,
+forst,forestal,protection,policy,no,[a-z]*forst[a-z]+,,,,
+geopfad,geological path,protection,policy,no,[a-z]*geopfad[a-z]*,,,,
+gesetz,act,protection,policy,no,[a-z]*gesetz[a-z]*,,,,
+landesbodenschutzgesetz,native soil protection act,protection,policy,yes,[a-z]*landesbodenschutzgesetz[a-z]*,,,,
+natura,Natura,protection,policy,no,natura,Natura 2000,,,
+naturschutz,nature conservation,protection,policy,no,[a-z]*naturschutz[a-z]*,,,,
+naturschutzgebiet,nature protectioned area,protection,policy,no,[a-z]*naturschutzgebiet[a-z]*,,,,
+nutzungsplan,use zoning plan,protection,policy,no,[a-z]*nutzungsplan[a-z]*,,,,
+neuordnung,reform,protection,policy,no,[a-z]*neuordnung[a-z]*,,,,
+nsg,nature protection act,protection,policy,no,[a-z]*nsg[a-z]*,,,,
+schutzgebiet,protectioned area,protection,policy,no,[a-z]*schutzgebiet[a-z]*,,,,
+analyse,analysis,protection,research,no,[a-z]*analys[a-z]*,,,,
+atlas,atlas,protection,research,no,[a-z]*atlas[a-z]*,,,,
+begleitboden,soil inclusion in a map unit,protection,research,yes,[a-z]*begleitboden[a-z]*,punktuell vorkommende Bodenform eines Kartenpolygons,https://umwelt.tg.ch/abfall-und-boden/boden/uebersichtskarte.html/1660,unknown,SC
+beobachtung,observation,protection,research,no,[a-z]*beobachtung[a-z]*,,,,SC
+bericht,report,protection,research,no,[a-z]*bericht[a-z]*,,,,SC
+bewert,evaluate,protection,research,no,[a-z]*bewert[a-z]*,,,,SC
+bodenanalyse,soil analysis,protection,research,yes,[a-z]*bodenanalyse[a-z]*,,,,SC
+bodenansprache,soil identification,protection,research,yes,[a-z]*bodenansprache[a-z]*,"Bodenansprache ist, sie mit den Grundzügen der Vorgehensweise vertraut zu machen, und die Fingerprobe zur Bodenartenbestimmung zu üben.",www.soil.tu-bs.de/lehre/Skripte/2012.Skript.Probenahme.Boku.pdf,category as feature,OF
+bodenarchiv,soil archive,protection,research,yes,[a-z]*bodenarchiv[a-z]*,Seit 1977 wurde die Archivierung von Bodenproben zum Statischen Versuch durchgeführt. Das Bodenarchiv enthält ausser den Proben aus dem Statischen Versuch auch material von dem Erweiterten Statischen Versuch und dem Brunnenringversuch.,https://www.ufz.de/index.php?de=39227,,OF
+bodenatlas,soil atlas,protection,research,yes,[a-z]*bodenatlas[a-z]*,,,,OF
+bodenaufnahme,soil survey,protection,research,yes,[a-z]*bodenaufnahme[a-z]*,please be aware of the German term for soil uptake (Bodenaufnahme),,,OF
+bodenbeobachtung,soil observation,protection,research,yes,[a-z]*bodenbeobachtung[a-z]*,,,,OF
+bodenbeprobung,soil sampling,protection,research,yes,[a-z]*bodenbeprobung[a-z]*,,,,OF
+bodenbericht,soil report,protection,research,yes,[a-z]*bodenbericht[a-z]*,,,,OF
+bodenbeschreibung,soil description,protection,research,yes,[a-z]*bodenbeschreibung[a-z]*,,,,OF
+bodenbestand,soil inventory,protection,research,yes,[a-z]*bodenbestand,,,,OF
+bodenbestimm,soil identification,protection,research,yes,[a-z]*bodenbestimm[a-z]*,,,,OF
+bodenbezeichnung,soil description,protection,research,yes,[a-z]*bodenbezeichnung[a-z]*,,,,OF
+bodenbiolog,soil biology,protection,research,yes,[a-z]*bodenbiolog[a-z]*,,,,OF
+bodenbiotop,soil biotope,protection,research,yes,[a-z]*bodenbiotop[a-z]*,,,,OF
+bodenbohr,soil drilling,protection,research,yes,[a-z]*bodenbohr[a-z]*,"Geologische Bohrungen dienen dazu, Regionen unterhalb der Erdoberfläche zu erreichen, die mit anderen Methoden nicht zugänglich sind. Zum einen bieten sie eine Möglichkeit die geologischen Verhältnisse im Untergrund direkt zu untersuchen, zum anderen können sie zusätzlich als Transportweg benutzt werden, um Stoffe an die Erdoberfläche zu holen oder darin zu versenken.",https://de.wikipedia.org/wiki/Bohrung_(Geologie),maybe observation of soil? then protection and research,OF
+bodendauerbeobachtung,soil monitoring,protection,research,yes,[a-z]*bodendauerbeobachtung[a-z]*,,,,OF
+bodenerkundung,soil investigation,protection,research,yes,[a-z]*bodenerkundung[a-z]*,,,,MJ
+bodenfalle,soil traps,protection,research,yes,[a-z]*bodenfalle[a-z]*,,,,MJ
+bodenforschung,soil research,protection,research,yes,[a-z]*bodenforschung[a-z]*,,,,MJ
+bodengeograf,soil geography,protection,research,yes,[a-z]*bodengeograf[a-z]*,,,,MJ
+bodengeograph,soil geography,protection,research,yes,[a-z]*bodengeograph[a-z]*,,,,MJ
+bodengutachten,soil expert's report,protection,research,yes,[a-z]*bodengutachten[a-z]*,,,,LS
+bodengute,soil quality,protection,research,yes,[a-z]*bodengute[a-z]*,,,,LS
+bodeninformation,soil information,protection,research,yes,[a-z]*bodeninformation[a-z]*,,,,LS
+bodenkapitel,soil chapter,protection,research,yes,[a-z]*bodenkapitel[a-z]*,,,,LS
+bodenkart,soil mapping,protection,research,yes,[a-z]*bodenkart[a-z]*,,,,LS
+bodenkdl,pedological,protection,research,yes,[a-z]*bodenkdl[a-z]*,"abbreviation for pedological (""bodenkundlich"")",,,LS
+bodenkenntniss,soil knowledge,protection,research,yes,[a-z]*bodenkenntniss[a-z]*,,,,LS
+bodenkultur,Science and technology of soil sustainability,protection,research,yes,[a-z]*bodenkultur[a-z]*,,,,LS
+bodenkund,pedology,protection,research,yes,[a-z]*bodenkund[a-z]*,,,,LS
+bodenlabor,soil laboratory,protection,research,yes,[a-z]*bodenlabor[a-z]*,,,,LS
+bodenlehr,pedology,protection,research,yes,[a-z]*bodenlehr[a-z]*,,,,LS
+bodenleitart,soil indicator species,protection,research,yes,[a-z]*bodenleitart[a-z]*,,,,LS
+bodenleitmotiv,soil guiding theme,protection,research,yes,[a-z]*bodenleitmotiv[a-z]*,,,,LS
+bodenmagazin,soil journal,protection,research,yes,[a-z]*bodenmagazin[a-z]*,,,alternative protection and managing,LS
+bodenmess,soil measurement,protection,research,yes,[a-z]*bodenmess[a-z]*,,,,LS
+bodenmodellierungen,soil modelling,protection,research,yes,[a-z]*bodenmodellierungen[a-z]*,,,,LS
+bodenokologi,soil ecology,protection,research,yes,[a-z]*bodenokologi[a-z]*,,,,MS
+bodenokotop,soil ecotope,protection,research,yes,[a-z]*bodenokotop[a-z]*,,https://wikidiff.com/ecotope/ecotype,,MS
+bodenprobe,soil samples,protection,research,yes,[a-z]*bodenprobe[a-z]*,,,,MS
+bodenprufpunkt,soil evaluation point,protection,research,yes,[a-z]*bodenprufpunkt[a-z]*,,,,MS
+bodenpunkt,soil quality measure,protection,research,yes,[a-z]*bodenpunkt[a-z]*,"synonym for ""Ackerzahl""",,,MS
+bodenqualitat,soil quality,protection,research,yes,[a-z]*bodenqualitat[a-z]*,,,,MS
+bodensondierung,soil probing,protection,research,yes,[a-z]*bodensondierung[a-z]*,,,,MS
+bodensystem,soil systematics,protection,research,yes,[a-z]*bodensystem[a-z]*,,,,
+bodenthem,soil topic,protection,research,yes,[a-z]*bodenthem[a-z]*,,,,
+bodentrichter,soil funnel,protection,research,yes,[a-z]*bodentrichter[a-z]*,,,,
+bodenubersicht,soil overview,protection,research,yes,[a-z]*bodenubersicht[a-z]*,,,,
+bodenuntersuchung,soil survey,protection,research,yes,[a-z]*bodenuntersuchung[a-z]*,,,,
+bodenzeiger,soil indicator,protection,research,yes,[a-z]*bodenzeiger[a-z]*,,,,
+daten,data,protection,research,no,[a-z]*daten[a-z]*,,,,
+erfassung,survey,protection,research,no,[a-z]*erfass[a-z]*,,,,
+forschung,research,protection,research,no,[a-z]*forschung[a-z]*,,,,
+geologi,geology,protection,research,no,[a-z]*geologi[a-z]*,,,,
+geophysik,geophysics,protection,research,no,[a-z]*geophysik[a-z]*,,,,
+gutachten,survey,protection,research,no,[a-z]*gutacht[a-z]*,,,,
+indikator,indicator,protection,research,no,[a-z]*indikat[a-z]*,,,,
+inventar,inventory,protection,research,no,[a-z]*inventar[a-z]*,,,,
+kartierung,field mapping,protection,research,no,[a-z]*kartierung[a-z]*,,,,
+leitart,indicator species,protection,research,no,[a-z]*leitart[a-z]*,,,,
+leitmotiv,guidance theme,protection,research,no,[a-z]*leitmotiv[a-z]*,,,,
+mess,measurement,protection,research,no,[a-z]*mess[a-z]*,,,,
+modellie,modeling,protection,research,no,[a-z]*modellie[a-z]*,,,,
+monitoring,monitoring,protection,research,no,[a-z]*monitoring[a-z]*,,,,
+nachweis,proof,protection,research,no,[a-z]*nachweis[a-z]*,,,,
+pruf,survey,protection,research,no,[a-z]*pruf[a-z]*,,,,
+uberwachung,monitoring,protection,research,no,[a-z]*uberwachung[a-z]*,,,,
+untersuchung,survey,protection,research,no,[a-z]*untersuchung[a-z]*,,,,
+bodenaggregat,soil aggregate,soil,amount,yes,[a-z]*bodenaggregat[a-z]*,,,,SC
+bodenanteil,soil portion,soil,amount,yes,[a-z]*bodenanteil[a-z]*,,,,OF
+bodenextrakt,soil extract,soil,amount,yes,[a-z]*bodenextrakt[a-z]*,,,,MJ
+bodenmasse,soil mass,soil,amount,yes,[a-z]*bodenmasse[a-z]*,,,,LS
+bodenmateri,soil material,soil,amount,yes,[a-z]*bodenmateri[a-z]*,,,,LS
+bodenmenge,soil quantities,soil,amount,yes,[a-z]*bodenmenge[a-z]*,,,,LS
+bodenpartikel,soil particle,soil,amount,yes,[a-z]*bodenpartikel[a-z]*,,,,MS
+bodenumfang,soil extent,soil,amount,yes,[a-z]*bodenumfang[a-z]*,,,,
+bodenvolumen,soil volume,soil,amount,yes,[a-z]*bodenvolumen[a-z]*,,,,
+material,material,soil,amount,no,[a-z]*material[a-z]*,,,,
+aboden,soil type,soil,classification,yes,aboden[a-z]*,,,,SC
+acboden,soil type,soil,classification,yes,acboden[a-z]*,,,,SC
+ahcboden,soil type,soil,classification,yes,ahcboden[a-z]*,,,,SC
+horizont,soil type,soil,classification,no,[a-z]*horizont[a-z]*,,,,SC
+ahornboden,soil type,soil,classification,yes,ahornboden[a-z]*,Der Große und der Kleine Ahornboden sind zwei landschaftlich beeindruckende Almböden mit alten Berg-Ahornbeständen im nördlichen Karwendel.,https://de.wikipedia.org/wiki/Ahornboden,,SC
+alluvialboden,soil type,soil,classification,yes,[a-z]*alluvialboden[a-z]*,,,,SC
+almboden,soil type,soil,classification,yes,almboden[a-z]*,,,,SC
+alpboden,soil type,soil,classification,yes,alpboden[a-z]*,,,,SC
+anmoor,half-bog,soil,classification,no,[a-z]*anmoor[a-z]*,,,,
+auenboden,soil of floodplain,soil,classification,yes,[a-z]*au[a-z]*boden[a-z]*,"Aue, Auen, Au = floodplain",,,SC
+auenlehm,floodplain clay,soil,classification,no,[a-z]*auenlehm[a-z]*,,,,SC
+auftauboden,active layer,soil,classification,yes,[a-z]*auftauboden[a-z]*,,,unknown,SC
+basaltboden,basalt soil,soil,classification,yes,[a-z]*basaltboden[a-z]*,,,,SC
+bestandesboden,inventory soil,soil,classification,yes,[a-z]*bestandesboden[a-z]*,,,,SC
+bodenabschnitt,soil section,soil,classification,yes,[a-z]*bodenabschnitt[a-z]*,,,,SC
+bodenart,soil type,soil,classification,yes,[a-z]*bodenart[a-z]*,,,,OF
+bodenesch,name of soil type,soil,classification,yes,[a-z]*bodenesch[a-z]*,"Der Plaggenesch (auch Plaggenboden oder Eschboden) ist ein fast ausschließlich auf den Raum Nordwestdeutschland beschränkter Bodentyp, der durch eine über Jahrhunderte durchgeführte Plaggendüngung entstand.",https://de.wikipedia.org/wiki/Plaggenesch,,MJ
+bodenform,soil form ,soil,classification,yes,[a-z]*bodenform[a-z]*,,,,MJ
+bodengesellschaft,soil association,soil,classification,yes,[a-z]*bodengesellschaft[a-z]*,,,,MJ
+bodenkennwert,soil classification number,soil,classification,yes,[a-z]*bodenkennwert[a-z]*,,,,LS
+bodenkennzahl,soil classification number,soil,classification,yes,[a-z]*bodenkennzahl[a-z]*,,,,LS
+bodenklasse,soil class,soil,classification,yes,[a-z]*bodenklasse[a-z]*,,,,LS
+bodenkrum,topsoil,soil,classification,yes,[a-z]*bodenkrum[a-z]*,,,,LS
+bodenlandschaften,soil landscapes,soil,classification,yes,[a-z]*bodenlandschaften[a-z]*,,https://lgrbwissen.lgrb-bw.de/glossar#Bodenlandschaft,,LS
+bodenmorphologi,soil morphology,soil,classification,yes,[a-z]*bodenmorphologi[a-z]*,Soil morphology is the study of the formation and description of soil types within various soil horizons.,https://en.wikipedia.org/wiki/Soil_morphology,,LS
+bodenprofil,soil profile,soil,classification,yes,[a-z]*bodenprofil[a-z]*,,,,MS
+bodenstufe,soil level,soil,classification,yes,[a-z]*bodenstufe[a-z]*,Boden- und Felsklasse Böden werden im Baugewerbe nach der Lösbarkeit und den erdbautechnischen Eigenschaften in insgesamt sieben Boden- und Felsklassen (vereinfachend oft Bodenklassen genannt) unterteilt.,https://de.wikipedia.org/wiki/Boden-_und_Felsklasse,,MS
+bodensubtyp,soil sub type,soil,classification,yes,[a-z]*bodensubtyp[a-z]*,,,,
+bodentorf,soil peat,soil,classification,yes,[a-z]*bodentorf[a-z]*,,,,
+bodentyp,soil type,soil,classification,yes,[a-z]*bodentyp[a-z]*,,,,
+bodenvergesellschaft,soil paragenesis,soil,classification,yes,[a-z]*bodenvergesellschaft[a-z]*,,,,
+bodenzone,soil zone,soil,classification,yes,[a-z]*bodenzone[a-z]*,,,,
+braunerde,a soil type,soil,classification,no,[a-z]*braunerde[a-z]*,,,,
+cboden,a soil type,soil,classification,yes,cboden[a-z]*,,,,
+dauerfrostboden,permafrost soil,soil,classification,yes,[a-z]*dauerfrostboden[a-z]*,,,,
+diluvialboden,a soil type,soil,classification,yes,[a-z]*diluvialboden[a-z]*,,,,
+dolomitboden,a soil type,soil,classification,yes,[a-z]*dolomitboden[a-z]*,,,,
+fahlerde,a soil type,soil,classification,no,[a-z]*fahlerde[a-z]*,,,,
+feinboden,a soil type,soil,classification,yes,[a-z]*feinboden[a-z]*,,,,
+feinerde,a soil type,soil,classification,no,[a-z]*feinerde[a-z]*,,,,
+felshumusboden,a soil type,soil,classification,yes,[a-z]*felshumusboden[a-z]*,,,,
+firnboden,a soil type,soil,classification,yes,[a-z]*firnboden[a-z]*,,,,
+frostboden,frozen soil,soil,classification,yes,[a-z]*frostboden[a-z]*,,,,
+geholzboden,forest soil,soil,classification,yes,[a-z]*geholzboden[a-z]*,,,,
+geroll,pebbles,soil,classification,no,[a-z]*geroll[a-z]*,,,,
+gerollboden,pebble soil,soil,classification,yes,[a-z]*gerollboden[a-z]*,,,,
+gesellschaft,association,soil,classification,no,[a-z]*gesellschaft[a-z]*,,,,
+gesteinsboden,rock earth,soil,classification,yes,[a-z]*gesteinsboden[a-z]*,,,,
+gley,a soil type,soil,classification,no,[a-z]*gley[a-z]*,,,,
+gleyboden,a soil type,soil,classification,yes,[a-z]*gleyboden[a-z]*,,,,
+hauptboden,main soil (types),soil,classification,yes,[a-z]*hauptboden[a-z]*,"i.e. sand, silt and clay",,,
+hauptbodenart,main soil type,soil,classification,yes,[a-z]*hauptbodenart[a-z]*,,,,
+hauptbodenform,main soil form,soil,classification,yes,[a-z]*hauptbodenform[a-z]*,,,,
+hortisol,a soil type,soil,classification,no,[a-z]*hortisol[a-z]*,,,,
+humusboden,a soil type,soil,classification,yes,[a-z]*humusboden[a-z]*,,,,
+juraboden,a soil type,soil,classification,yes,[a-z]*juraboden[a-z]*,,,,
+kalk,lime,soil,classification,no,[a-z]*kalk[a-z]*,,,,
+kalkboden,a soil type,soil,classification,yes,[a-z]*kalkboden[a-z]*,,,,
+karbonatboden,a soil type,soil,classification,yes,[a-z]*karbonatboden[a-z]*,,,,
+kolluviboden,a soil type,soil,classification,yes,[a-z]*kolluvi[a-z]*boden[a-z]*,,,,
+kolluvisol,a soil type,soil,classification,no,[a-z]*kolluvisol[a-z]*,,,,
+lehm,clay,soil,classification,no,[a-z]*lehm[a-z]*,,,,
+lehmboden,a soil type,soil,classification,yes,[a-z]*lehmboden[a-z]*,,,,
+leitboden,indicator soil,soil,classification,yes,[a-z]*leitboden[a-z]*,vorherrschender Boden einer Bodeneinheit.,https://lgrbwissen.lgrb-bw.de/glossar/leitboden,,
+lockerboden,a soil type,soil,classification,yes,[a-z]*lockerboden[a-z]*,regolith,,,
+lossboden,a soil type,soil,classification,yes,[a-z]*lossboden[a-z]*,,,,
+loszboden,a soil type,soil,classification,yes,[a-z]*loszboden[a-z]*,,,,
+marschboden,a soil type,soil,classification,yes,[a-z]*marschboden[a-z]*,,,,
+mineralboden,mineral soil,soil,classification,yes,[a-z]*mineralboden[a-z]*,,,,
+mischboden,mixed soil,soil,classification,yes,[a-z]*mischboden[a-z]*,,,,
+moorboden,a soil type,soil,classification,yes,[a-z]*moorboden[a-z]*,,,,
+mullboden,a soil type,soil,classification,yes,[a-z]*mullboden[a-z]*,"Der Mull, altertümlich Molte, ist die günstigste Humusform und Kennzeichen nährstoffreicher, biotisch aktiver Böden.",https://de.wikipedia.org/wiki/Mull_(Humusform),,
+mullerdeboden,a soil type,soil,classification,yes,[a-z]*mullerdeboden[a-z]*,,,,
+mutterboden,native soil,soil,classification,yes,[a-z]*mutterboden[a-z]*,,,,
+nassboden,wet soil,soil,classification,yes,[a-z]*nassboden[a-z]*,,,,
+naszboden,wet soil,soil,classification,yes,[a-z]*naszboden[a-z]*,,,,
+oberboden,topsoil,soil,classification,yes,[a-z]*oberboden[a-z]*,,,,
+oberflachenboden,topsoil,soil,classification,yes,[a-z]*oberflachenboden[a-z]*,,,,
+pelosol,a soil type,soil,classification,no,[a-z]*pelosol[a-z]*,,,,
+pelosolboden,a soil type,soil,classification,yes,[a-z]*pelosolboden[a-z]*,,,,
+plaggenesch,a soil type,soil,classification,no,[a-z]*plaggenesch[a-z]*,"Der Plaggenesch ist ein fast ausschließlich auf den Raum Nordwestdeutschland beschränkter Bodentyp, der durch eine über Jahrhunderte durchgeführte Plaggendüngung entstand.",https://de.wikipedia.org/wiki/Plaggenesch,,
+podsol,a soil type,soil,classification,no,[a-z]*podsol[a-z]*,,,,
+podsolboden,a soil type,soil,classification,yes,[a-z]*podsolboden[a-z]*,,,,
+polygonboden,a soil type,soil,classification,yes,[a-z]*polygonboden[a-z]*,,,,
+pseudogley,a soil type,soil,classification,no,[a-z]*pseudogley[a-z]*,,,,
+ranker,slope soil,soil,classification,no,[a-z]*ranker[a-z]*,,,,
+reduktosol,a soil type,soil,classification,no,[a-z]*reduktosol[a-z]*,,,,
+regosol,a soil type,soil,classification,no,[a-z]*regosol[a-z]*,,,,
+rendzina,a soil type,soil,classification,no,[a-z]*rendzina[a-z]*,,,,
+rigosol,a soil type,soil,classification,no,[a-z]*rigosol[a-z]*,,,,
+rohmarsch,a soil type,soil,classification,no,[a-z]*rohmarsch[a-z]*,,,,
+rotboden,a soil type,soil,classification,yes,[a-z]*rotboden[a-z]*,,,,
+salzboden,a soil type,soil,classification,yes,[a-z]*salzboden[a-z]*,,,,
+sandboden,a soil type,soil,classification,yes,[a-z]*sandboden[a-z]*,,,,
+schichtboden,a soil type,soil,classification,yes,[a-z]*schichtboden[a-z]*,,,,
+schluff,silt,soil,classification,no,[a-z]*schluff[a-z]*,,,,
+schluffboden,a soil type,soil,classification,yes,[a-z]*schluffboden[a-z]*,,,,
+schuttboden,a soil type,soil,classification,yes,[a-z]*schuttboden[a-z]*,,,,
+schwarzerde,a soil type,soil,classification,no,[a-z]*schwarzerde[a-z]*,,,,
+schwarzerdeboden,a soil type,soil,classification,yes,[a-z]*schwarzerdeboden[a-z]*,,,,
+silikatboden,a soil type,soil,classification,yes,[a-z]*silikatboden[a-z]*,,,,
+skelettboden,a soil type,soil,classification,yes,[a-z]*skelettboden[a-z]*,"Als Skelettboden (Abkürzung: Sk) bezeichnet man Böden, die zu mehr als 75 % aus Komponenten einer Korngröße von größer als 2 mm bestehen.",https://de.wikipedia.org/wiki/Skelettboden,,
+stagnogley,a soil type,soil,classification,no,[a-z]*stagnogley[a-z]*,,,,
+syrosem,a soil type,soil,classification,no,[a-z]*syrosem[a-z]*,,,,
+terra,a soil type,soil,classification,no,[a-z]*terra[a-z]*,,,,
+ton,clay,soil,classification,no,[a-z]*ton[a-z]*,,,,
+tonboden,a soil type,soil,classification,yes,[a-z]*tonboden[a-z]*,,,,
+torf,peat,soil,classification,no,[a-z]*torf[a-z]*,,,,
+torfboden,peat soil,soil,classification,yes,[a-z]*torfboden[a-z]*,,,,
+tschernosem,a soil type,soil,classification,no,[a-z]*tschernosem[a-z]*,,,,
+uberschwemmungsboden,flooding soil,soil,classification,yes,[a-z]*uberschwemmungsboden[a-z]*,,,,
+unterboden,subsoil,soil,classification,yes,[a-z]*unterboden[a-z]*,,,,
+vega,a soil type,soil,classification,no,[a-z]*vega[a-z]*,,,,
+vegaboden,a soil type,soil,classification,yes,[a-z]*vegaboden[a-z]*,,,,
+waldboden,forest soil,soil,classification,yes,[a-z]*waldboden[a-z]*,,,,
+boden,soil,soil,soil,yes,boden,,,,SC
+bodenabhangig,soil-dependend,soil,soil,yes,[a-z]*bodenabhangig[a-z]*,,,,SC
+bodenaktiv,soil-active,soil,soil,yes,[a-z]*bodenaktiv[a-z]*,,,,SC
+bodenbedingt,soil-conditional,soil,soil,yes,[a-z]*bodenbedingt[a-z]*,,,,OF
+bodenbeeinflussend,soil-affecting,soil,soil,yes,[a-z]*bodenbeeinflussend[a-z]*,,,,OF
+bodenberuhren,soil-based,soil,soil,yes,[a-z]*bodenberuhren[a-z]*,,,,OF
+bodenbestandteil,soil component,soil,soil,yes,[a-z]*bodenbestandteil[a-z]*,,,,OF
+bodenbetracht,soil-related,soil,soil,yes,[a-z]*bodenbetracht[a-z]*,,,,OF
+bodenbezogen,soil-related,soil,soil,yes,[a-z]*bodenbezogen[a-z]*,,,,OF
+bodenburtig,soil-borne,soil,soil,yes,[a-z]*bodenburtig[a-z]*,,,,OF
+bodeneigen,soil-own,soil,soil,yes,[a-z]*bodeneigen[a-z]*,,,,MJ
+bodenfraktion,soil fraction,soil,soil,yes,[a-z]*bodenfraktion[a-z]*,,,,MJ
+bodengleich,soil-like,soil,soil,yes,[a-z]*bodengleich[a-z]*,,,,LS
+bodeninaktivitat,soil inactivity,soil,soil,yes,[a-z]*bodeninaktivitat[a-z]*,,,alternately biodiversity and diversity or environment,LS
+bodeninner,soil-internal,soil,soil,yes,[a-z]*bodeninner[a-z]*,,,,LS
+bodenintern,soil-internal,soil,soil,yes,[a-z]*bodenintern[a-z]*,,,,LS
+bodenkompartiment,soil compartment,soil,soil,yes,[a-z]*bodenkompartiment[a-z]*,,,alternatively habitat,LS
+bodenkomplex,soil complex,soil,soil,yes,[a-z]*bodenkomplex[a-z]*,,,alternatively phyiscal property but not sure,LS
+bodenkorper,soil body,soil,soil,yes,[a-z]*bodenkorper[a-z]*,,,,LS
+bodenorientiert,focus on soil,soil,soil,yes,[a-z]*bodenorientiert[a-z]*,,,,MS
+bodenpartie,soil section,soil,soil,yes,[a-z]*bodenpartie[a-z]*,,,,MS
+bodenrelevant,soil-relevant,soil,soil,yes,[a-z]*bodenrelevant[a-z]*,,,,MS
+bodensinter,soil-intern,soil,soil,yes,[a-z]*bodensinter[a-z]*,,,,MS
+bodenspeziell,soil-specific,soil,soil,yes,[a-z]*bodenspeziell[a-z]*,,,,MS
+bodenspezif,soil-specific,soil,soil,yes,[a-z]*bodenspezif[a-z]*,,,,MS
+bodenstationar,edaphic,soil,soil,yes,[a-z]*bodenstationar[a-z]*,,,,MS
+bodenstelle,soil spot,soil,soil,yes,[a-z]*bodenstelle[a-z]*,,,,MS
+bodenstoff,soil material,soil,soil,yes,[a-z]*bodenstoff[a-z]*,,,,MS
+bodenstuck,soil part,soil,soil,yes,[a-z]*bodenstuck[a-z]*,,,,MS
+bodensubstanz,soil substrate,soil,soil,yes,[a-z]*bodensubstanz[a-z]*,,,,MS
+bodensubstrat,soil substrate,soil,soil,yes,[a-z]*bodensubstrat[a-z]*,,,,MS
+bodenteil,soil component,soil,soil,yes,[a-z]*bodenteil[a-z]*,,,,
+bodentendenz,soil tendency,soil,soil,yes,[a-z]*bodentendenz[a-z]*,,,,
+bodenuntergrund,soil substrate,soil,soil,yes,[a-z]*bodenuntergrund[a-z]*,,,,
+edaphisch,edaphic,soil,soil,no,[a-z]*edaphisch[a-z]*,,,,
+erde,dirt,soil,soil,no,[a-z]*erde[a-z]*,,,,
+ansauern,acidification,threat,acidification,no,[a-z]*ansauern[a-z]*,,,,SC
+ansaurung,acidification,threat,acidification,no,[a-z]*ansaurung[a-z]*,,,,SC
+bodenaziditat,soil acidity,threat,acidification,yes,[a-z]*bodenaziditat[a-z]*,,,,OF
+bodenversauer,soil acidification,threat,acidification,yes,[a-z]*bodenversauer[a-z]*,,,,
+entbasung,acidification,threat,acidification,no,[a-z]*entbasung[a-z]*,,,,
+phveranderung,pH change,threat,acidification,no,[a-z]*phveranderung[a-z]*,,,,
+saurung,acidification,threat,acidification,no,[a-z]*saurung[a-z]*,,,,
+versaurung,acidification,threat,acidification,no,[a-z]*versaurung[a-z]*,,,,
+abdicht,sealing,threat,compaction,no,[a-z]*abdicht[a-z]*,,,,SC
+befahren,traveled (road),threat,compaction,no,[a-z]*befahr[a-z]*,,,,
+bodenabsenkung,soil depression,threat,compaction,yes,[a-z]*bodenabsenkung[a-z]*,,,,SC
+bodendruck,soil pressure,threat,compaction,yes,[a-z]*bodendruck[a-z]*,,,,MJ
+bodenpressung,soil compression,threat,compaction,yes,[a-z]*bodenpressung[a-z]*,,,,MS
+bodenschadverdichtung,soil detrimental compaction,threat,compaction,yes,[a-z]*bodenschadverdichtung[a-z]*,,,,MS
+bodenspannung,soil pressure,threat,compaction,yes,[a-z]*bodenspannung[a-z]*,,,,MS
+bodenverdicht,soil compaction,threat,compaction,yes,[a-z]*bodenverdicht[a-z]*,,,,
+bodenverfestig,soil compaction,threat,compaction,yes,[a-z]*bodenverfestig[a-z]*,,,,
+dichtung,compaction,threat,compaction,no,[a-z]*dichtung[a-z]*,,,,
+kompaktion,compaction,threat,compaction,no,[a-z]*kompaktion[a-z]*,,,,
+verdichtung,compaction,threat,compaction,no,[a-z]*verdichtung[a-z]*,,,,
+verfestigen,to compact,threat,compaction,no,[a-z]*verfestigen[a-z]*,,,,
+abfall,waste,threat,contamination,no,[a-z]*abfall[a-z]*,,,,SC
+abwasser,sewage water,threat,contamination,no,[a-z]*abwasser[a-z]*,,,,SC
+altlasten,polluted areas,threat,contamination,no,[a-z]*altlasten[a-z]*,,,,SC
+bodenbelast,soil pollution,threat,contamination,yes,[a-z]*bodenbelast[a-z]*,,,,OF
+bodenkontamin,soil contamination,threat,contamination,yes,[a-z]*bodenkontamin[a-z]*,,,,LS
+bodenschadstoff,soil contaminant,threat,contamination,yes,[a-z]*bodenschadstoff[a-z]*,,,,MS
+bodenseuche,soil pest,threat,contamination,yes,[a-z]*bodenseuche[a-z]*,,,,MS
+bodenverschmutz,soil contamination,threat,contamination,yes,[a-z]*bodenverschmutz[a-z]*,,,,
+bodenverunrein,soil contamination,threat,contamination,yes,[a-z]*bodenverunrein[a-z]*,,,,
+cadmium,cadmium,threat,contamination,no,[a-z]*cadmium[a-z]*,,,,
+chemikalien,chemicals,threat,contamination,no,[a-z]*chemikalie[a-z]*,,,,
+deponie,depository,threat,contamination,no,[a-z]*deponie[a-z]*,,,,
+deponieboden,depository soil,threat,contamination,yes,[a-z]*deponieboden[a-z]*,,,,
+mikroplastic,microplastics,threat,contamination,no,[a-z]*mikroplastic[a-z]*,,,,
+mull,waste,threat,contamination,no,[a-z]*mull[a-z]*,,,,
+plastik,plastic,threat,contamination,no,[a-z]*plastik[a-z]*,,,,
+schwermetalle,heavy metals,threat,contamination,no,[a-z]*schwermetalle[a-z]*,,,,
+verschmutzung,pollution,threat,contamination,no,[a-z]*verschmutzung[a-z]*,,,,
+verunreinigt,contaminated,threat,contamination,no,[a-z]*verunreinigt[a-z]*,,,,
+abholz,deforestation,threat,deforestation,no,[a-z]*abholz[a-z]*,,,,SC
+entwaldung,deforestation,threat,deforestation,no,[a-z]*entwaldung[a-z]*,,,,
+kahlschlag,deforestation,threat,deforestation,no,[a-z]*kahlschlag[a-z]*,,,,
+rodung,deforestation,threat,deforestation,no,[a-z]*rodung[a-z]*,,,,
+abbruch,break,threat,degradation,no,[a-z]*abbruch[a-z]*,,,,SC
+abfallen,decline,threat,degradation,no,abfallen,,,,SC
+abfallend,declining,threat,degradation,no,[a-z]*abfallend[a-z]*,,,,SC
+abfallt,decline,threat,degradation,no,abfallt,,,,SC
+abtrag,degradation,threat,degradation,no,[a-z]*abtrag[a-z]*,,,,SC
+aushubboden,excavated soil,threat,degradation,yes,[a-z]*aushubboden[a-z]*,,,,SC
+bodenabbruch,soil break,threat,degradation,yes,[a-z]*bodenabbruch[a-z]*,,,,SC
+bodenabtrag,soil degradation,threat,degradation,yes,[a-z]*bodenabtrag[a-z]*,,,,SC
+bodenanriss,soil slight break,threat,degradation,yes,[a-z]*bodenanriss[a-z]*,,,,OF
+bodenarm,soil-poor,threat,degradation,yes,[a-z]*bodenarm[a-z]*,,,,OF
+bodenaufbruch,soil disruption,threat,degradation,yes,[a-z]*bodenaufbruch[a-z]*,,,,OF
+bodenaufriss,soil breakdown,threat,degradation,yes,[a-z]*bodenaufriss[a-z]*,,,,OF
+bodenaufschluss,soil exposure,threat,degradation,yes,[a-z]*bodenaufschluss[a-z]*,,,,OF
+bodenaushagerung,soil degradation,threat,degradation,yes,[a-z]*bodenaushagerung[a-z]*,,,,OF
+bodenauszehrung,soil degradation,threat,degradation,yes,[a-z]*bodenauszehrung[a-z]*,,,,OF
+bodenbruch,soil break,threat,degradation,yes,[a-z]*bodenbruch[a-z]*,,,,OF
+bodendegener,soil degeneration,threat,degradation,yes,[a-z]*bodendegener[a-z]*,,,,OF
+bodendegradation,soil degradation,threat,degradation,yes,[a-z]*bodendegrad[a-z]*,,,,OF
+bodendegration,soil degradation,threat,degradation,yes,[a-z]*bodendegration[a-z]*,,,,MJ
+bodendevastierung,soil degradation,threat,degradation,yes,[a-z]*bodendevastierung[a-z]*,,,,MJ
+bodenerschopfung,soil depletion,threat,degradation,yes,[a-z]*bodenerschopfung[a-z]*,,,,MJ
+bodenmudigkeit,soil exhaustion,threat,degradation,yes,[a-z]*bodenmudigkeit[a-z]*,,,,LS
+bodenreduzierend,soil-reducing,threat,degradation,yes,[a-z]*bodenreduzierend[a-z]*,,,,MS
+bodenriss,soil cracks,threat,degradation,yes,[a-z]*bodenriss[a-z]*,,,alternative soil fissures,MS
+bodensackung,soil sinking,threat,degradation,yes,[a-z]*bodensackung[a-z]*,,,,MS
+bodensenk,soil depression,threat,degradation,yes,[a-z]*bodensenk[a-z]*,,,alternative translation as soil subsidence,MS
+bodenunsicher,soil-unsafe,threat,degradation,yes,[a-z]*bodenunsicher[a-z]*,,,,
+bodenverarmung,soil depletion,threat,degradation,yes,[a-z]*bodenverarmung[a-z]*,,,,
+bodenverform,soil deformation,threat,degradation,yes,[a-z]*bodenverform[a-z]*,,,,
+bodenverlust,soil loss,threat,degradation,yes,[a-z]*bodenverlust[a-z]*,,,,
+bodenverschlecht,soil deterioration,threat,degradation,yes,[a-z]*bodenverschlecht[a-z]*,,,,
+bodenverwund,soil injury,threat,degradation,yes,[a-z]*bodenverwund[a-z]*,,,,
+bodenzehr,soil depletion,threat,degradation,yes,[a-z]*bodenzehr[a-z]*,,,,
+bodenzerstor,soil deterioration,threat,degradation,yes,[a-z]*bodenzerstor[a-z]*,,,,
+degeneration,degeneration,threat,degradation,no,[a-z]*degener[a-z]*,"degeneration, degenerieren",,,
+degradierung,degradation,threat,degradation,no,[a-z]*degradier[a-z]*,,,,
+erschopfung,degradation,threat,degradation,no,[a-z]*erschopf[a-z]*,,,,
+moorsackung,sinking of moor land,threat,degradation,no,[a-z]*moorsackung[a-z]*,,,,
+totboden,dead soil,threat,degradation,yes,[a-z]*totboden[a-z]*,,,,
+ablagerung,deposition,threat,deposition,no,[a-z]*ablage[a-z]*,,,,SC
+absetzung,deposition,threat,deposition,no,[a-z]*absetz[a-z]*,,,,
+anlandung,alluviation,threat,deposition,no,[a-z]*anlandung[a-z]*,,,,
+aufschuttung,earth deposit,threat,deposition,no,[a-z]*aufschuttung[a-z]*,,,,SC
+bodenablagerung,soil deposition,threat,deposition,yes,[a-z]*bodenablagerung[a-z]*,,,,SC
+bodenakkumulation,soil accumulation,threat,deposition,yes,[a-z]*bodenakkumulation[a-z]*,,,,SC
+bodenanlandung,soil alluviation,threat,deposition,yes,[a-z]*bodenanlandung[a-z]*,,,,OF
+bodenansammlung,soil accumulation,threat,deposition,yes,[a-z]*bodenansammlung[a-z]*,,,,OF
+bodenauftrag,soil deposition,threat,deposition,yes,[a-z]*bodenauftrag[a-z]*,,,,OF
+bodenaustrag,soil deposition,threat,deposition,yes,[a-z]*bodenaustrag[a-z]*,,,,OF
+bodensetzung,soil settlement,threat,deposition,yes,[a-z]*bodensetzung[a-z]*,,,,MS
+bedroht,threatened,threat,disturbance,no,[a-z]*bedroh[a-z]*,,,,
+beeintrachtigung,detrimental effects,threat,disturbance,no,[a-z]*beeintrachtigung[a-z]*,,,,SC
+bodenanderung,soil change,threat,disturbance,yes,[a-z]*bodenanderung[a-z]*,,,,SC
+bodenauswirkung,soil impacts,threat,disturbance,yes,[a-z]*bodenauswirkung[a-z]*,,,,OF
+bodenbeanspruchung,soil stress,threat,disturbance,yes,[a-z]*bodenbeanspruchung[a-z]*,,,,OF
+bodenbeeintrachtig,soil detrimental effect,threat,disturbance,yes,[a-z]*bodenbeeintrachtig[a-z]*,,,,OF
+bodenbeschadig,soil-damaging,threat,disturbance,yes,[a-z]*bodenbeschadig[a-z]*,,,,OF
+bodenbild,soil impression,threat,disturbance,yes,bodenbild,"Ein Bodenbild ist ein Bild, das durch Strukturveränderung des Bodens erstellt wird und oft nur aus größerer Höhe erkennbar ist",https://de.wikipedia.org/wiki/Bodenbild,,OF
+bodeneingreif,soil intervention,threat,disturbance,yes,[a-z]*bodeneingreif[a-z]*,,,,MJ
+bodeneingriff,soil intervention,threat,disturbance,yes,[a-z]*bodeneingriff[a-z]*,,,,MJ
+bodengefahr,soil danger,threat,disturbance,yes,[a-z]*bodengefahr[a-z]*,,,,MJ
+bodenmodifikation,soil modification,threat,disturbance,yes,[a-z]*bodenmodifikation[a-z]*,,,,LS
+bodenschad,soil damaging,threat,disturbance,yes,[a-z]*bodenschad[a-z]*,,,,MS
+bodenstorung,soil disturbance,threat,disturbance,yes,[a-z]*bodenstorung[a-z]*,,,,MS
+bodenverarbeitung,soil treatment,threat,disturbance,yes,[a-z]*bodenverarbeitung[a-z]*,,,,
+bodenverletz,soil violation,threat,disturbance,yes,[a-z]*bodenverletz[a-z]*,,,,
+bodenwuhl,soil grubing,threat,disturbance,yes,[a-z]*bodenwuhl[a-z]*,,,,
+eingreifen,intervent,threat,disturbance,no,[a-z]*eingreifen[a-z]*,,,,
+eingriff,intervention,threat,disturbance,no,[a-z]*eingriff[a-z]*,,,,
+einwirkung,impact,threat,disturbance,no,[a-z]*einwirk[a-z]*,,,,
+gefahr,threat,threat,disturbance,no,[a-z]*gefahr[a-z]*,,,,
+gefahrdung,endangering,threat,disturbance,no,[a-z]*gefahrdung[a-z]*,,,,
+geschadigt,damaged,threat,disturbance,no,[a-z]*geschadigt[a-z]*,,,,
+schaden,damage,threat,disturbance,no,[a-z]*schaden[a-z]*,,,,
+storung,disturbances,threat,disturbance,no,[a-z]*storung[a-z]*,,,,
+ungleichgewicht,imbalance,threat,disturbance,no,[a-z]*ungleichgewicht[a-z]*,,,,
+verletzung,injury,threat,disturbance,no,[a-z]*verletzung[a-z]*,,,,
+abflies,runoff,threat,erosion,no,[a-z]*abflies[a-z]*,,,,SC
+abflus,runoff,threat,erosion,no,[a-z]*abflus[a-z]*,,,,SC
+abflussmenge,runoff,threat,erosion,no,[a-z]*abflussmenge[a-z]*,,,,SC
+ablauf,runoff,threat,erosion,no,[a-z]*ablauf[a-z]*,,,,SC
+auslaugen,leaching,threat,erosion,no,[a-z]*auslaug[a-z]*,,,,
+ausmagerung,leaching,threat,erosion,no,[a-z]*ausmager[a-z]*,,,,
+waschung,leaching,threat,erosion,no,[a-z]*waschung[a-z]*,,,,
+waschen,leaching,threat,erosion,no,[a-z]*waschen[a-z]*,,,,
+bodenablauf,soil run-off,threat,erosion,yes,[a-z]*bodenablauf[a-z]*,,,,SC
+bodenabschwemmung,soil avulsion,threat,erosion,yes,[a-z]*bodenabschwemmung[a-z]*,,,,SC
+bodenabspulung,soil washout,threat,erosion,yes,[a-z]*bodenabspulung[a-z]*,,,,SC
+bodenabtrocknung,soil drying,threat,erosion,yes,[a-z]*bodenabtrocknung[a-z]*,,,,SC
+bodenabwaschung,soil washout,threat,erosion,yes,[a-z]*bodenabwaschung[a-z]*,,,,SC
+bodenausspulung,soil washout,threat,erosion,yes,[a-z]*bodenausspulung[a-z]*,,,,OF
+bodenaustrocknung,soil drying,threat,erosion,yes,[a-z]*bodenaustrocknung[a-z]*,,,,OF
+bodenauswaschung,soil leaching,threat,erosion,yes,[a-z]*bodenauswaschung[a-z]*,,,,OF
+bodeneinschwammung,soil infiltration,threat,erosion,yes,[a-z]*bodeneinschwammung[a-z]*,,,,MJ
+bodeneinschwemmung,soil infiltration,threat,erosion,yes,[a-z]*bodeneinschwemmung[a-z]*,,,,MJ
+bodeneinspulung,soil infiltration,threat,erosion,yes,[a-z]*bodeneinspulung[a-z]*,,,,MJ
+bodeneinwaschung,soil wash-in,threat,erosion,yes,[a-z]*bodeneinwaschung[a-z]*,,,,MJ
+bodenerodier,soil erosion,threat,erosion,yes,[a-z]*bodenerodier[a-z]*,,,,MJ
+bodenerosion,soil erosion,threat,erosion,yes,[a-z]*bodenerosion[a-z]*,,,,MJ
+bodenfliesz,soil flow,threat,erosion,yes,[a-z]*bodenfliesz[a-z]*,,,,MJ
+bodenfreileg,soil exposure,threat,erosion,yes,[a-z]*bodenfreileg[a-z]*,,,,MJ
+bodenoffen,soil-exposed,threat,erosion,yes,[a-z]*bodenoffen[a-z]*,,,,MS
+bodenrutsch,land slide,threat,erosion,yes,[a-z]*bodenrutsch[a-z]*,,,,MS
+bodentrocken,soil-dry,threat,erosion,yes,[a-z]*bodentrocken[a-z]*,,,,
+bodentrockn,soil drying,threat,erosion,yes,[a-z]*bodentrockn[a-z]*,,,,
+bodenuberschwemm,soil flooding,threat,erosion,yes,[a-z]*bodenuberschwemm[a-z]*,,,,
+bodenverflussig,soil liquidation,threat,erosion,yes,[a-z]*bodenverflussig[a-z]*,,,,
+bodenvernass,soil wetness,threat,erosion,yes,[a-z]*bodenvernass[a-z]*,,,,
+erdbewegung,landslide,threat,erosion,no,[a-z]*erdbewegung[a-z]*,,,,
+erdrutsch,landslide,threat,erosion,no,[a-z]*erdrutsch[a-z]*,,,,
+erodiert,eroded,threat,erosion,no,[a-z]*erodier[a-z]*,,,,
+erosion,erosion,threat,erosion,no,[a-z]*erosion[a-z]*,,,,
+schwemm,wash (in/ out),threat,erosion,no,[a-z]*schwemm[a-z]*,,,,
+spulung,runoff,threat,erosion,no,[a-z]*spulung[a-z]*,,,,
+spulen,runoff,threat,erosion,no,[a-z]*spulen[a-z]*,,,,
+vernassung,waterlogging,threat,erosion,no,[a-z]*vernassung[a-z]*,,,,
+wasser,water,threat,erosion,no,[a-z]*wasser[a-z]*,,,,
+winderosion,wind erosion,threat,erosion,no,[a-z]*winderosion[a-z]*,,,,
+biozide,biocides,threat,inputs,no,[a-z]*biozide[a-z]*,,,,SC
+bodendung,soil dung,threat,inputs,yes,[a-z]*bodendung[a-z]*,,,,MJ
+bodeneutrophierung,soil eutrophication,threat,inputs,yes,[a-z]*bodeneutrophierung[a-z]*,,,,MJ
+bodenherbizid,ground herbicide,threat,inputs,yes,[a-z]*bodenherbizid[a-z]*,,,,LS
+dung,fertilizer,threat,inputs,no,[a-z]*dung[a-z]*,,,,
+eintrag,input,threat,inputs,no,[a-z]*eintrag[a-z]*,,,,
+eutrophierung,eutrophication,threat,inputs,no,[a-z]*eutrophier[a-z]*,,,,
+fremdstoff,foreign substance,threat,inputs,no,[a-z]*fremdstoff[a-z]*,,,,
+herbizide,herbicides,threat,inputs,no,[a-z]*herbizide[a-z]*,,,,
+mineraldunger,mineral fertilizer,threat,inputs,no,[a-z]*mineraldunger[a-z]*,,,,
+pestizide,pesticides,threat,inputs,no,[a-z]*pestizide[a-z]*,,,,
+abweid,grazing,threat,landuse,no,[a-z]*abweid[a-z]*,,,,
+autobahn,highway,threat,landuse,no,[a-z]*autobahn[a-z]*,,,,
+beweidung,grazing,threat,landuse,no,[a-z]*beweid[a-z]*,,,,
+bewirtschaftung,management,threat,landuse,no,[a-z]*bewirtschaftung[a-z]*,,,,SC
+bodenbearbeit,tillage,threat,landuse,yes,[a-z]*bodenbearbeit[a-z]*,,,,OF
+bodenbehandlung,soil treatment,threat,landuse,yes,[a-z]*bodenbehandlung[a-z]*,,,,OF
+bodengrubb,soil cultivator,threat,landuse,yes,[a-z]*bodengrubb[a-z]*,"Der Grubber (englisch to grub ‚graben') ist ein landwirtschaftliches Gerät zur nichtwendenden Bodenbearbeitung, das zur Lockerung und Krümelung des Bodens sowie zur Unkrautbekämpfung und Einarbeitung von humosen Materialien in den Boden eingesetzt wird.",https://de.wikipedia.org/wiki/Grubber,,LS
+bodennutz,land use,threat,landuse,yes,[a-z]*bodennutz[a-z]*,,,,MS
+bodennutzung,land use,threat,landuse,yes,[a-z]*bodennutzung[a-z]*,,,,MS
+bodenumbruch,soil change,threat,landuse,yes,[a-z]*bodenumbruch[a-z]*,,,,
+bodenumschicht,soil shiftung,threat,landuse,yes,[a-z]*bodenumschicht[a-z]*,,,,
+bodenumwand,soil change,threat,landuse,yes,[a-z]*bodenumwand[a-z]*,,,,
+bodenverander,soil change,threat,landuse,yes,[a-z]*bodenverander[a-z]*,,,,
+bodenverbrauch,soil use,threat,landuse,yes,[a-z]*bodenverbrauch[a-z]*,,,,
+bodenverunkraut,soil weed infestation,threat,landuse,yes,[a-z]*bodenverunkraut[a-z]*,"Die durch die Auflösung der Fruchtfolgesysteme verstärkt auftretenden ackerbaulichen Probleme (Bodenverunkrautung, Pilzerkrankungen bei Getreide, Kartoffeln usw.) konnten bei stetig steigendem Ertragsniveau mit chemischen Wachstumsregulatoren und Pestiziden beherrscht werden.",https://www.bpb.de/gesellschaft/umwelt/dossier-umwelt/61261/industrialisierung,,
+bodenverwend,soil use,threat,landuse,yes,[a-z]*bodenverwend[a-z]*,,,,
+bodenvollumbruch,land full change,threat,landuse,yes,[a-z]*bodenvollumbruch[a-z]*,,,,
+bodenvorarbeit,soil groundwork,threat,landuse,yes,[a-z]*bodenvorarbeit[a-z]*,,,,
+entbuschung,removal of scrubs,threat,landuse,no,[a-z]*entbusch[a-z]*,"Entbuschung ist eine Maßnahme der Landschaftspflege mit dem Ziel, auf bspw. Heideflächen, Feuchtwiesen und in Mooren dem Heranwachsen von Gehölzen entgegenzuwirken und damit den bestehenden Lebensraum für Pflanzen und Tiere zu erhalten.",https://junior-ranger.de/lexikon/entbuschung/,,
+fragmentiert,fragmented,threat,landuse,no,[a-z]*fragment[a-z]*,,,,
+intensivierung,intensification,threat,landuse,no,[a-z]*intensivierung[a-z]*,,,,
+landnutzung,land use,threat,landuse,no,[a-z]*landnutzung[a-z]*,,,,
+landnutzungsveranderung,land use change,threat,landuse,no,[a-z]*landnutzungsveranderung[a-z]*,,,,
+mahd,mowing,threat,landuse,no,[a-z]*mahd[a-z]*,,,,
+umbruch,change,threat,landuse,no,[a-z]*umbruch[a-z]*,,,,
+urbanisierung,urbanization,threat,landuse,no,[a-z]*urbanisierung[a-z]*,,,,
+weideflache,grazing land,threat,landuse,no,[a-z]*weideflache[a-z]*,,,,
+weideland,grazing land,threat,landuse,no,[a-z]*weideland[a-z]*,,,,
+bodensalinitat,soil salinity ,threat,salinization,yes,[a-z]*bodensalinitat[a-z]*,,,,MS
+bodensalz,soil salinity ,threat,salinization,yes,[a-z]*bodensalz[a-z]*,,,,MS
+bodenversalz,soil salinization,threat,salinization,yes,[a-z]*bodenversalz[a-z]*,,,,
+salz,salt,threat,salinization,no,[a-z]*salz[a-z]*,,,,
+versalzung,salinization,threat,salinization,no,[a-z]*versalzung[a-z]*,,,,
+bebau,build on sth.,threat,sealing,no,[a-z]*bebau[a-z]*,,,,SC
+bodenversieg,soil sealing,threat,sealing,yes,[a-z]*bodenversieg[a-z]*,,,,
+verschluss,sealing,threat,sealing,no,[a-z]*verschluss[a-z]*,,,,
+versiegelung,sealing,threat,sealing,no,[a-z]*versiegelung[a-z]*,,,,
