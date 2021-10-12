@@ -6,21 +6,21 @@
 #- - - - - - - - - - - - - - - - -#
 
 # Set working directory
-folder.wd <- "I:/eie/==PERSONAL/RZ SoilBON/RZ ManagementPlans"
-work.wd <- ("I:/eie/==PERSONAL/RZ SoilBON/RZ ManagementPlans/Text mining MaP/R Scripts")
+folder.wd <- "I:/eie/==PERSONAL/RZ SoilBON//ManagementPlans/Data"
+work.wd <- ("I:/eie/==PERSONAL/RZ SoilBON/ManagementPlans/R Scripts")
 stopword.wd <- ("~/GitHub/stopwords-de/stopwords-de.txt")
 git.wd <- ("~/GitHub/")
-figu.wd <- ("I:/eie/==PERSONAL/RZ SoilBON/RZ ManagementPlans/Text mining MaP/Figures")
+figu.wd <- ("I:/eie/==PERSONAL/RZ SoilBON//ManagementPlans/Figures")
 setwd(work.wd); getwd()
 
 ## working directories to merge pdfs
 # for Bavaria
-input.wd <- "I:/eie/SoilBON/ManagementPlans/Bavaria/to convert"
-output.wd <- "I:/eie/SoilBON/ManagementPlans/Bavaria"
+input.wd <- "I:/eie/RZ SoilBON/ManagementPlans/Bavaria/to convert"
+output.wd <- "I:/eie/RZ SoilBON/ManagementPlans/Bavaria"
 
 # for Rhineland-Palatinate
-input.wd <- "I:/eie/SoilBON/ManagementPlans/RLP/to convert"
-output.wd <- "I:/eie/SoilBON/ManagementPlans/RLP"
+input.wd <- "I:/eie/RZ SoilBON/ManagementPlans/RLP/to convert"
+output.wd <- "I:/eie/RZ SoilBON/ManagementPlans/RLP"
 
 #- - - - - - - - - - - - - - - - - - - - - - -
 ## Set some objects frequently used in following scripts ####
