@@ -770,6 +770,21 @@ ggplot(data=d[d$category!="remove",], aes(subcategory, fill=category)) +
   scale_y_continuous(expand = c(0, 0), limits = c(0, 85))
 dev.off()
 
+#- - - - - - - - - - - - - - - - - - - - - - -
+## Plot number of management plans over time ####
+
+# load meta data
+setwd(folder.wd)
+meta.all <- read.csv("../Document_Year_all_filled.csv")
+
+# plot number of plans per year
+#setwd(figu.wd); pdf(file="Barplot_NumberManagementplans_years.pdf")
+ggplot(data=meta.all, aes(x=year))+
+  geom_bar()+
+  theme_bw()+
+  xlab("Year")+ ylab("Number of plans")+
+  theme(axis.title = element_text(size=40), axis.text = element_text(size=20))
+dev.off()
 
 
 
