@@ -262,7 +262,16 @@ dev.off()
 ggplot(data=d, aes(mean, category, fill=category)) +
   geom_bar(stat="identity", show.legend = T) +
   scale_fill_manual(values=barcolors) +
-  #facet_grid(cols =vars(deca))+ scale_y_discrete(labels=NULL) +
+  facet_grid(cols =vars(deca))+ scale_y_discrete(labels=NULL) +
+  theme(text = element_text(size = 20)) 
+dev.off()
+
+## bar plot: categories mean
+#setwd(figu.wd); pdf("Barplot_categories_mean.pdf", width=10)
+ggplot(data=d %>% group_by(subcategory, word2) %>% summarize_all(mean, na.rm=T), 
+       aes(mean, category, fill=category)) +
+  geom_bar(stat="identity", show.legend = T) +
+  scale_fill_manual(values=barcolors) +
   theme(text = element_text(size = 20)) 
 dev.off()
 
