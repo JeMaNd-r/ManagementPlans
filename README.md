@@ -106,7 +106,7 @@ To reproduce the analysis right from the beginning, you have to first download t
 # References
 
 Associated publication:
-[1] Zeiss et al. (2021): ...
+[1] Zeiss et al. (2022): Challenges of and opportunities for protecting European soil biodiversity. Conservation Biology. https://doi.org/10.1111/cobi.13930
 
 Related repository:
-...
+FigShare DOI: 10.6084/m9.figshare.16698073
