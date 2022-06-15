@@ -38,19 +38,17 @@ final[ order(final$clicks),c("ID_1","NAME_1","HASC_1","clicks") ]
 map.g$clicks <- final$clicks
 print(sample[ order(sample$clicks), ])
 
-clrs <- c("#FFFFE5", "#FFFFE5", "#FFFFE5", "#FFFFE5", # lower than 100
-          "#FFF7BC", # 100-200
-          "#FEE391", "#FEE391", "#FEE391", "#FEE391", #200-300
-          "#FEC44F", "#FEC44F", "#FEC44F", "#FEC44F", #300-400
-          "#FE9929", "#EC7014", "#CC4C02", "#8C2D04") # >400
+# clrs <- c("#FFFFE5", "#FFFFE5", "#FFFFE5", "#FFFFE5", # lower than 100
+#           "#FFF7BC", # 100-200
+#           "#FEE391", "#FEE391", "#FEE391", "#FEE391", #200-300
+#           "#FEC44F", "#FEC44F", "#FEC44F", "#FEC44F", #300-400
+#           "#FE9929", "#EC7014", "#CC4C02", "#8C2D04") # >400
 
-
-
-#palette(brewer.pal(n = 8, name = "YlOrBr"))
+clrs <- RColorBrewer::brewer.pal(n = 8, name = "Greens")
 
 #setwd(figu.wd); pdf("")
 spplot(map.g, zcol = "clicks", main = "Plans per State", 
-       at = c(0, 30, 100, 200, 300, 400, 500, 620), col.region=clrs)
+       at = c(0, 30, 100, 200, 300, 400, 500, 620), col.regions=clrs)
 #... work on colors...
 
 
